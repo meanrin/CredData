@@ -47,12 +47,12 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 14871,80503e10,GitHub,92faccc6,data/92faccc6/src/k.kt,540:540,F,F,,,F,F,,,,,0,0,F,F,F,
 14872,ff0b38b7,GitHub,92faccc6,data/92faccc6/test/r.kt,110:110,F,F,,,F,F,,,,,0,0,F,F,F,
 18609,1f400812,GitHub,92faccc6,data/92faccc6/src/e.kt,30:30,F,F,,,F,F,,,,,0,0,F,F,F,
-28106,c5175610,GitHub,92faccc6,data/92faccc6/other/c.md,74:74,Template,1,32,39,F,F,CharsOnly,,,Secret,2.52,7,F,F,F,Password
+28106,c5175610,GitHub,92faccc6,data/92faccc6/other/c.md,74:74,T,T,32,39,F,F,CharsOnly,,,Secret,2.52,7,F,F,F,Password
 32251,b43e0ac9,GitHub,92faccc6,data/92faccc6/test/p.java,471:472,F,F,25,91,F,F,,,,,0,0,F,F,F,
 32346,24be9b50,GitHub,92faccc6,data/92faccc6/test/q.java,63:63,F,F,14,86,F,F,,,,,0,0,F,F,F,
 32347,24be9b50,GitHub,92faccc6,data/92faccc6/test/q.java,69:69,F,F,14,86,F,F,,,,,0,0,F,F,F,
 32739,b43e0ac9,GitHub,92faccc6,data/92faccc6/test/p.java,441:441,F,F,14,82,F,F,,,,,0,0,F,F,F,
-34263,b4d68dc8,GitHub,92faccc6,data/92faccc6/other/b.md,918:918,T,0,14,38,F,F,NumbersOnly,,,Secret,2.67,24,F,F,F,Password
+34263,b4d68dc8,GitHub,92faccc6,data/92faccc6/other/b.md,918:918,T,F,14,38,F,F,NumbersOnly,,,Secret,2.67,24,F,F,F,Password
 34306,b4d68dc8,GitHub,92faccc6,data/92faccc6/other/b.md,441:441,F,F,20,93,F,F,,,,,0,0,F,F,F,
 35091,71023f6a,GitHub,92faccc6,data/92faccc6/src/v.kt,32:33,F,F,1,74,F,F,,,,,0,0,F,F,F,
 35947,8ea6006d,GitHub,92faccc6,data/92faccc6/test/i.kt,279:279,F,F,1,69,F,F,,,,,0,0,F,F,F,

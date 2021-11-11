@@ -10,12 +10,12 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 16468,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3830:3830,F,F,,,F,F,,,,,0,0,F,F,F,
 16469,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3829:3829,F,F,,,F,F,,,,,0,0,F,F,F,
 16478,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3782:3782,F,F,,,F,F,,,,,0,0,F,F,F,
-16479,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3570:3570,F,F,,,F,F,,,,,0,0,F,F,F,
+16479,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3570:3570,Template,F,,,F,F,,,,,0,0,F,F,F,
 16493,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3783:3783,F,F,,,F,F,,,,,0,0,F,F,F,
 16537,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3702:3702,F,F,,,F,F,,,,,0,0,F,F,F,
 16538,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3701:3701,F,F,,,F,F,,,,,0,0,F,F,F,
 16539,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3700:3700,F,F,,,F,F,,,,,0,0,F,F,F,
-16540,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3699:3699,F,F,,,F,F,,,,,0,0,F,F,F,
+16540,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3699:3699,Template,F,,,F,F,,,,,0,0,F,F,F,
 16834,f3591641,GitHub,660708f3,data/660708f3/src/f.php,27:27,F,F,,,F,F,,,,,0,0,F,F,F,
 17546,b3356305,GitHub,660708f3,data/660708f3/other/b.md,14:14,F,F,,,F,F,,,,,0,0,F,F,F,
 17547,b3356305,GitHub,660708f3,data/660708f3/other/b.md,13:13,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -102,9 +102,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 22225,cb220955,GitHub,660708f3,data/660708f3/other/a,110:110,F,F,,,F,F,,,,,0,0,F,F,F,
 27689,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3827:3827,F,F,19,60,F,F,,,,,0,0,F,F,F,
 27709,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3831:3831,F,F,20,32,F,F,,,,,0,0,F,F,F,
-27713,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3824:3824,Template,1,27,43,F,F,Any,,,Secret,3.38,16,F,F,F,Password
-27714,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3823:3823,Template,1,19,31,F,F,Any,,,Secret,2.95,12,F,F,F,Password
-27718,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3815:3815,Template,1,21,38,F,F,Any,,,Secret,3.10,17,F,F,F,Password
+27713,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3824:3824,F,T,27,43,F,F,Any,,,Secret,3.38,16,F,F,F,Password
+27714,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3823:3823,Template,T,19,31,F,F,Any,,,Secret,2.95,12,F,F,F,Password
+27718,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3815:3815,Template,T,21,38,F,F,Any,,,Secret,3.10,17,F,F,F,Password
 54740,6e395352,GitHub,660708f3,data/660708f3/src/c.js,8:8,F,F,,,F,F,,,,,0,0,F,F,F,
 55965,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3579:3579,F,F,,,F,F,,,,,0,0,F,F,F,
 55966,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3814:3814,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -119,3 +119,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74771,6e395352,GitHub,660708f3,data/660708f3/src/c.js,7492:7492,F,F,,,F,F,,,,,0,0,F,F,F,
 74775,6e395352,GitHub,660708f3,data/660708f3/src/c.js,4355:4355,F,F,,,F,F,,,,,0,0,F,F,F,
 76271,6e395352,GitHub,660708f3,data/660708f3/src/c.js,3104:3104,F,F,,,F,F,,,,,0,0,F,F,F,
+,6e395352,GitHub,660708f3,data/660708f3/src/c.js,939:939,F,,,,,,,,,,,,,,,

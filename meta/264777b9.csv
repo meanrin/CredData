@@ -29,8 +29,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 17301,dd3044ac,GitHub,264777b9,data/264777b9/src/f.scss,139:139,F,F,,,F,F,,,,,0,0,F,F,F,
 23530,bbad02f0,GitHub,264777b9,data/264777b9/src/e.scss,71:71,F,F,,,F,F,,,,,0,0,F,F,F,
 23555,bbad02f0,GitHub,264777b9,data/264777b9/src/e.scss,67:67,F,F,,,F,F,,,,,0,0,F,F,F,
-29335,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,20:20,Template,1,18,34,F,F,CharsOnly,,,Secret,3.45,16,F,F,F,Password
-32511,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,16:16,T,0,16,48,F,F,Any,,,Secret,3.72,32,F,F,F,Generic Secret
-33814,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,12:12,T,0,15,41,F,F,CharsOnly,,,Secret,2.99,26,F,F,F,Password
+29335,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,20:20,Template,T,18,34,F,F,CharsOnly,,,Secret,3.45,16,F,F,F,Password
+32511,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,16:16,T,F,16,48,F,F,Any,,,Secret,3.72,32,F,F,F,Generic Secret
+33814,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,12:12,T,F,15,41,F,F,CharsOnly,,,Secret,2.99,26,F,F,F,Password
 43089,ee900528,GitHub,264777b9,data/264777b9/src/b.ts,105:105,F,F,,,F,F,,,,,0,0,F,F,F,
 62325,e7ba9fda,GitHub,264777b9,data/264777b9/src/c.ts,181:181,F,F,,,F,F,,,,,0,0,F,F,F,
+,ee900528,GitHub,264777b9,data/264777b9/src/b.ts,26:26,F,,,,,,,,,,,,,,,

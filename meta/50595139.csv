@@ -101,7 +101,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 26546,f1d2511c,GitHub,50595139,data/50595139/test/f.storyboard,688:688,F,F,,,F,F,,,,,0,0,F,F,F,
 26560,7f39b579,GitHub,50595139,data/50595139/test/e.storyboard,20:20,F,F,,,F,F,,,,,0,0,F,F,F,
 26563,0a8b0cd9,GitHub,50595139,data/50595139/test/a.storyboard,15:15,F,F,,,F,F,,,,,0,0,F,F,F,
-31088,28de09ab,GitHub,50595139,data/50595139/test/c.m,654:654,Template,0,23,29,F,F,Any,,,Secret,2.58,6,F,F,F,Password
+31088,28de09ab,GitHub,50595139,data/50595139/test/c.m,654:654,Template,F,23,29,F,F,Any,,,Secret,2.58,6,F,F,F,Password
 46760,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,17:17,F,F,,,F,F,,,,,0,0,F,F,F,
 46761,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,31:31,F,F,,,F,F,,,,,0,0,F,F,F,
 49230,28de09ab,GitHub,50595139,data/50595139/test/c.m,350:350,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -243,3 +243,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82359,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,49:49,F,F,23,47,F,F,,,,,0,0,F,F,F,
 82360,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,71:71,F,F,23,47,F,F,,,,,0,0,F,F,F,
 82361,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,95:95,F,F,23,47,F,F,,,,,0,0,F,F,F,
+,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,529:529,Template,,,,,,,,,,,,,,,
+,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,894:894,Template,,,,,,,,,,,,,,,
+,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,794:794,Template,,,,,,,,,,,,,,,
+,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,379:379,F,,,,,,,,,,,,,,,
+,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,111:111,F,,,,,,,,,,,,,,,
+,28de09ab,GitHub,50595139,data/50595139/test/c.m,302:302,F,,,,,,,,,,,,,,,

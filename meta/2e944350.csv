@@ -15,18 +15,61 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 16934,9a02bb49,GitHub,2e944350,data/2e944350/src/g.php,87:87,F,F,,,F,F,,,,,0,0,F,F,F,
 18598,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,52:52,F,F,,,F,F,,,,,0,0,F,F,F,
 21399,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,95:95,F,F,,,F,F,,,,,0,0,F,F,F,
-27387,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,37:37,T,0,27,33,F,F,CharsOnly,,,Secret,2.58,6,F,F,F,Password
-29117,32aff869,GitHub,2e944350,data/2e944350/test/k.php,319:319,Template,0,20,26,F,F,CharsOnly,,,Token,2.25,6,F,F,F,Generic Token
+27387,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,37:37,T,F,27,33,F,F,CharsOnly,,,Secret,2.58,6,F,F,F,Password
+29117,32aff869,GitHub,2e944350,data/2e944350/test/k.php,319:319,Template,F,20,26,F,F,CharsOnly,,,Token,2.25,6,F,F,F,Generic Token
 31048,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1574:1574,F,F,20,63,F,F,,,,,0,0,F,F,F,
 31053,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1657:1657,F,F,28,71,F,F,,,,,0,0,F,F,F,
 32420,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,42:42,F,F,24,67,F,F,,,,,0,0,F,F,F,
-32421,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,40:40,T,0,23,66,F,F,Any,,,Unknown,4.74,43,F,F,F,Other
-35282,225a4e6d,GitHub,2e944350,data/2e944350/test/n.crlf,1:27,T,1,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
-35323,3d8ce767,GitHub,2e944350,data/2e944350/test/m.key,1:15,T,1,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
-36479,911b28ee,GitHub,2e944350,data/2e944350/test/d.php,27:27,T,0,1,49,F,F,Any,,,Unknown,4.87,48,F,F,F,Other
-36480,b9011659,GitHub,2e944350,data/2e944350/test/b.php,46:46,T,0,1,49,F,F,Any,,,Unknown,4.87,48,F,F,F,Other
-46244,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,51:51,Template,0,32,38,F,F,Any,,,Secret,2.58,6,F,F,F,Password
-46245,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,35:35,Template,0,32,38,F,F,Any,,,Secret,2.58,6,F,F,F,Password
+32421,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,40:40,T,F,23,66,F,F,Any,,,Unknown,4.74,43,F,F,F,Other
+35282,225a4e6d,GitHub,2e944350,data/2e944350/test/n.crlf,1:27,T,T,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
+35323,3d8ce767,GitHub,2e944350,data/2e944350/test/m.key,1:15,T,T,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
+36479,911b28ee,GitHub,2e944350,data/2e944350/test/d.php,27:27,T,F,1,49,F,F,Any,,,Unknown,4.87,48,F,F,F,Other
+36480,b9011659,GitHub,2e944350,data/2e944350/test/b.php,46:46,T,F,1,49,F,F,Any,,,Unknown,4.87,48,F,F,F,Other
+46244,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,51:51,Template,F,32,38,F,F,Any,,,Secret,2.58,6,F,F,F,Password
+46245,49aaa281,GitHub,2e944350,data/2e944350/test/a.md,35:35,Template,F,32,38,F,F,Any,,,Secret,2.58,6,F,F,F,Password
 46982,11fb7b50,GitHub,2e944350,data/2e944350/test/c.php,42:42,F,F,,,F,F,,,,,0,0,F,F,F,
 55889,ac66bdfe,GitHub,2e944350,data/2e944350/test/l.php,71:71,F,F,,,F,F,,,,,0,0,F,F,F,
 82685,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,154:154,F,F,15,19,F,F,,,,,0,0,F,F,F,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,599:599,F,,,,,,,,,,,,,,,
+,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,123:123,F,,,,,,,,,,,,,,,
+,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,155:155,F,,,,,,,,,,,,,,,
+,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,144:144,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,474:474,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,495:495,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,534:534,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,668:668,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,736:736,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,806:806,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,879:879,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,935:935,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,983:983,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1036:1036,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1077:1077,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1130:1130,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1168:1168,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1232:1232,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1293:1293,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1354:1354,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1413:1413,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1486:1486,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1559:1559,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1632:1632,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1705:1705,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1772:1772,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1795:1795,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1867:1867,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,1935:1935,F,,,,,,,,,,,,,,,
+,84e7c213,GitHub,2e944350,data/2e944350/test/j.php,2006:2006,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,70:70,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,128:128,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,184:184,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,239:239,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,285:285,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,316:316,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,353:353,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,398:398,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,444:444,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,524:524,F,,,,,,,,,,,,,,,
+,32aff869,GitHub,2e944350,data/2e944350/test/k.php,581:581,F,,,,,,,,,,,,,,,
+,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,149:149,F,,,,,,,,,,,,,,,
+,f9a88d72,GitHub,2e944350,data/2e944350/test/i.php,194:194,F,,,,,,,,,,,,,,,

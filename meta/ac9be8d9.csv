@@ -122,11 +122,11 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 13346,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,25:25,F,F,,,F,F,,,,,0,0,F,F,F,
 13347,f79c2c33,GitHub,ac9be8d9,data/ac9be8d9/src/s.ex,106:106,F,F,,,F,F,,,,,0,0,F,F,F,
 13889,97085c94,GitHub,ac9be8d9,data/ac9be8d9/test/cc.exs,153:153,F,F,,,F,F,,,,,0,0,F,F,F,
-14059,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,326:326,F,F,,,F,F,,,,,0,0,F,F,F,
+14059,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,326:326,Template,F,,,F,F,,,,,0,0,F,F,F,
 14167,b2cabe1a,GitHub,ac9be8d9,data/ac9be8d9/src/bf.ex,7:7,F,F,,,F,F,,,,,0,0,F,F,F,
 14198,cb9db124,GitHub,ac9be8d9,data/ac9be8d9/src/bu.ex,10:10,F,F,,,F,F,,,,,0,0,F,F,F,
 14223,97085c94,GitHub,ac9be8d9,data/ac9be8d9/test/cc.exs,26:26,F,F,,,F,F,,,,,0,0,F,F,F,
-14276,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,261:261,F,F,,,F,F,,,,,0,0,F,F,F,
+14276,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,261:261,Template,F,,,F,F,,,,,0,0,F,F,F,
 14283,e1929c62,GitHub,ac9be8d9,data/ac9be8d9/src/m.leex,8:8,F,F,,,F,F,,,,,0,0,F,F,F,
 14319,ea2e03d3,GitHub,ac9be8d9,data/ac9be8d9/src/n.ex,39:39,F,F,,,F,F,,,,,0,0,F,F,F,
 14417,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,60:60,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -169,40 +169,40 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 24603,cc944e70,GitHub,ac9be8d9,data/ac9be8d9/test/cf.exs,177:177,F,F,,,F,F,,,,,0,0,F,F,F,
 24606,cc944e70,GitHub,ac9be8d9,data/ac9be8d9/test/cf.exs,185:185,F,F,,,F,F,,,,,0,0,F,F,F,
 24717,deae76f5,GitHub,ac9be8d9,data/ac9be8d9/other/f.md,211:211,F,F,,,F,F,,,,,0,0,F,F,F,
-27655,31c31183,GitHub,ac9be8d9,data/ac9be8d9/test/o.exs,524:524,T,1,83,91,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
-27911,95a19c59,GitHub,ac9be8d9,data/ac9be8d9/other/d.md,83:83,Template,1,25,29,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
-27912,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,350:350,Template,1,25,29,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
-29660,4404f8f4,GitHub,ac9be8d9,data/ac9be8d9/test/q.yml,19:19,Template,1,13,26,F,F,Any,,,Secret,2.90,13,F,F,F,Password
-30472,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,552:552,Template,1,81,94,F,F,Any,,,Secret,2.90,13,F,F,F,Password
-30480,31c31183,GitHub,ac9be8d9,data/ac9be8d9/test/o.exs,578:578,Template,1,77,90,F,F,Any,,,Secret,2.90,13,F,F,F,Password
-30579,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,500:500,Template,0,81,87,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
-32640,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,495:495,T,1,87,95,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
-32642,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,496:496,T,1,88,96,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+27655,31c31183,GitHub,ac9be8d9,data/ac9be8d9/test/o.exs,524:524,F,T,83,91,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+27911,95a19c59,GitHub,ac9be8d9,data/ac9be8d9/other/d.md,83:83,Template,T,25,29,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
+27912,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,350:350,Template,T,25,29,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
+29660,4404f8f4,GitHub,ac9be8d9,data/ac9be8d9/test/q.yml,19:19,Template,T,13,26,F,F,Any,,,Secret,2.90,13,F,F,F,Password
+30472,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,552:552,F,T,81,94,F,F,Any,,,Secret,2.90,13,F,F,F,Password
+30480,31c31183,GitHub,ac9be8d9,data/ac9be8d9/test/o.exs,578:578,F,T,77,90,F,F,Any,,,Secret,2.90,13,F,F,F,Password
+30579,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,500:500,Template,F,81,87,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
+32640,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,495:495,F,T,87,95,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+32642,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,496:496,F,T,88,96,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
 32644,8ebcc986,GitHub,ac9be8d9,data/ac9be8d9/test/bz.exs,30:30,F,F,,,F,F,,,,,0,0,F,F,F,
 32645,8ebcc986,GitHub,ac9be8d9,data/ac9be8d9/test/bz.exs,18:18,F,F,,,F,F,,,,,0,0,F,F,F,
-33798,c82a804a,GitHub,ac9be8d9,data/ac9be8d9/other/e.md,217:217,T,0,17,81,F,F,Any,,,Secret,5.13,64,F,F,F,Generic Secret
-33959,4404f8f4,GitHub,ac9be8d9,data/ac9be8d9/test/q.yml,8:8,T,1,19,27,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
-34412,55b9cf5b,GitHub,ac9be8d9,data/ac9be8d9/other/g.md,138:138,T,1,11,19,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
-34419,e3fe37f7,GitHub,ac9be8d9,data/ac9be8d9/other/h.md,528:528,T,1,11,15,F,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
-34433,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,289:289,F,F,11,29,F,F,,,,,0,0,F,F,F,
-34597,c82a804a,GitHub,ac9be8d9,data/ac9be8d9/other/e.md,215:215,T,0,37,101,F,F,Any,,,Secret,5.13,64,F,F,F,Generic Secret
-34601,7a145e4e,GitHub,ac9be8d9,data/ac9be8d9/other/c.md,27:27,T,1,34,38,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
-34899,c0bada0d,GitHub,ac9be8d9,data/ac9be8d9/test/bx.exs,86:86,T,0,8,44,F,F,Any,,,Token,3.23,36,F,F,F,Generic Token
-35101,1ac02d79,GitHub,ac9be8d9,data/ac9be8d9/src/v.ex,51:51,T,0,18,52,F,F,Any,,,Secret,4.18,34,F,F,F,Generic Secret
-35292,766cf329,GitHub,ac9be8d9,data/ac9be8d9/test/bv.pem,1:27,T,1,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
-35423,94033c4d,GitHub,ac9be8d9,data/ac9be8d9/src/ba.ex,148:148,T,0,19,53,F,F,Any,,,Secret,4.18,34,F,F,F,Generic Secret
-37176,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,301:301,F,F,11,29,F,F,,,,,0,0,F,F,F,
+33798,c82a804a,GitHub,ac9be8d9,data/ac9be8d9/other/e.md,217:217,T,F,17,81,F,F,Any,,,Secret,5.13,64,F,F,F,Generic Secret
+33959,4404f8f4,GitHub,ac9be8d9,data/ac9be8d9/test/q.yml,8:8,T,T,19,27,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+34412,55b9cf5b,GitHub,ac9be8d9,data/ac9be8d9/other/g.md,138:138,T,T,11,19,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
+34419,e3fe37f7,GitHub,ac9be8d9,data/ac9be8d9/other/h.md,528:528,Template,T,11,15,F,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
+34433,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,289:289,Template,F,11,29,F,F,,,,,0,0,F,F,F,
+34597,c82a804a,GitHub,ac9be8d9,data/ac9be8d9/other/e.md,215:215,T,F,37,101,F,F,Any,,,Secret,5.13,64,F,F,F,Generic Secret
+34601,7a145e4e,GitHub,ac9be8d9,data/ac9be8d9/other/c.md,27:27,Template,T,34,38,T,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
+34899,c0bada0d,GitHub,ac9be8d9,data/ac9be8d9/test/bx.exs,86:86,T,F,8,44,F,F,Any,,,Token,3.23,36,F,F,F,Generic Token
+35101,1ac02d79,GitHub,ac9be8d9,data/ac9be8d9/src/v.ex,51:51,T,F,18,52,F,F,Any,,,Secret,4.18,34,F,F,F,Generic Secret
+35292,766cf329,GitHub,ac9be8d9,data/ac9be8d9/test/bv.pem,1:27,T,T,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
+35423,94033c4d,GitHub,ac9be8d9,data/ac9be8d9/src/ba.ex,148:148,T,F,19,53,F,F,Any,,,Secret,4.18,34,F,F,F,Generic Secret
+37176,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,301:301,Template,F,11,29,F,F,,,,,0,0,F,F,F,
 47105,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,351:351,F,F,,,F,F,,,,,0,0,F,F,F,
 47134,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,350:350,F,F,,,F,F,,,,,0,0,F,F,F,
 47135,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,352:352,F,F,,,F,F,,,,,0,0,F,F,F,
-47213,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,470:470,T,1,24,31,F,F,CharsOnly,,,Secret,2.81,7,F,F,F,Password
+47213,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,470:470,T,T,24,31,F,F,CharsOnly,,,Secret,2.81,7,F,F,F,Password
 47535,9aab4bff,GitHub,ac9be8d9,data/ac9be8d9/test/ck.exs,81:81,F,F,,,F,F,,,,,0,0,F,F,F,
 47735,31c31183,GitHub,ac9be8d9,data/ac9be8d9/test/o.exs,579:579,F,F,,,F,F,,,,,0,0,F,F,F,
 47736,aef64994,GitHub,ac9be8d9,data/ac9be8d9/test/p.exs,553:553,F,F,,,F,F,,,,,0,0,F,F,F,
 47758,9aab4bff,GitHub,ac9be8d9,data/ac9be8d9/test/ck.exs,76:76,F,F,,,F,F,,,,,0,0,F,F,F,
 47854,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,486:486,F,F,,,F,F,,,,,0,0,F,F,F,
 47985,c4325fad,GitHub,ac9be8d9,data/ac9be8d9/other/b.md,291:291,F,F,,,F,F,,,,,0,0,F,F,F,
-48277,deae76f5,GitHub,ac9be8d9,data/ac9be8d9/other/f.md,30:30,F,F,,,F,F,,,,,0,0,F,F,F,
+48277,deae76f5,GitHub,ac9be8d9,data/ac9be8d9/other/f.md,30:30,Template,F,,,F,F,,,,,0,0,F,F,F,
 55947,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,333:333,F,F,,,F,F,,,,,0,0,F,F,F,
 55948,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,388:388,F,F,,,F,F,,,,,0,0,F,F,F,
 55949,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,441:441,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -221,7 +221,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 64010,cc944e70,GitHub,ac9be8d9,data/ac9be8d9/test/cf.exs,183:183,F,F,,,F,F,,,,,0,0,F,F,F,
 64011,cc944e70,GitHub,ac9be8d9,data/ac9be8d9/test/cf.exs,187:187,F,F,,,F,F,,,,,0,0,F,F,F,
 66249,dc576351,GitHub,ac9be8d9,data/ac9be8d9/test/cl.exs,24:24,F,F,,,F,F,,,,,0,0,F,F,F,
-74774,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,334:334,F,F,,,F,F,,,,,0,0,F,F,F,
+74774,047edd4c,GitHub,ac9be8d9,data/ac9be8d9/src/j.ex,334:334,Template,F,,,F,F,,,,,0,0,F,F,F,
 74830,97085c94,GitHub,ac9be8d9,data/ac9be8d9/test/cc.exs,34:34,F,F,,,F,F,,,,,0,0,F,F,F,
 74831,97085c94,GitHub,ac9be8d9,data/ac9be8d9/test/cc.exs,42:42,F,F,,,F,F,,,,,0,0,F,F,F,
 74832,97085c94,GitHub,ac9be8d9,data/ac9be8d9/test/cc.exs,50:50,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -244,3 +244,56 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 83071,d08887b7,GitHub,ac9be8d9,data/ac9be8d9/src/bq.ex,38:38,F,F,22,34,F,F,,,,,0,0,F,F,F,
 83072,595c896a,GitHub,ac9be8d9,data/ac9be8d9/test/bk.exs,35:35,F,F,72,83,F,F,,,,,0,0,F,F,F,
 83073,595c896a,GitHub,ac9be8d9,data/ac9be8d9/test/bk.exs,94:94,F,F,71,89,F,F,,,,,0,0,F,F,F,
+,c4325fad,GitHub,ac9be8d9,data/ac9be8d9/other/b.md,444:444,F,,,,,,,,,,,,,,,
+,c4325fad,GitHub,ac9be8d9,data/ac9be8d9/other/b.md,477:477,F,,,,,,,,,,,,,,,
+,640c024a,GitHub,ac9be8d9,data/ac9be8d9/other/i.md,409:409,F,,,,,,,,,,,,,,,
+,c4325fad,GitHub,ac9be8d9,data/ac9be8d9/other/b.md,515:515,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,1560:1560,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,307:307,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,304:304,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,120:120,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,195:195,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,121:121,F,,,,,,,,,,,,,,,
+,5a8a42f8,GitHub,ac9be8d9,data/ac9be8d9/src/bj.ex,50:50,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,133:133,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,1113:1113,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,119:119,F,,,,,,,,,,,,,,,
+,94033c4d,GitHub,ac9be8d9,data/ac9be8d9/src/ba.ex,213:213,F,,,,,,,,,,,,,,,
+,94033c4d,GitHub,ac9be8d9,data/ac9be8d9/src/ba.ex,134:134,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,55:55,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,36:36,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,102:102,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,33:33,F,,,,,,,,,,,,,,,
+,501abec1,GitHub,ac9be8d9,data/ac9be8d9/src/bg.ex,311:311,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,1111:1111,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,1115:1115,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,132:132,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,58:58,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,1120:1120,F,,,,,,,,,,,,,,,
+,1870d95b,GitHub,ac9be8d9,data/ac9be8d9/src/bo.ex,48:48,F,,,,,,,,,,,,,,,
+,5ace5e10,GitHub,ac9be8d9,data/ac9be8d9/src/u.ex,671:671,F,,,,,,,,,,,,,,,
+,1ac02d79,GitHub,ac9be8d9,data/ac9be8d9/src/v.ex,69:69,F,,,,,,,,,,,,,,,
+,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,630:630,F,,,,,,,,,,,,,,,
+,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,586:586,F,,,,,,,,,,,,,,,
+,5276c6aa,GitHub,ac9be8d9,data/ac9be8d9/test/by.exs,607:607,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,105:105,F,,,,,,,,,,,,,,,
+,fb14a5d1,GitHub,ac9be8d9,data/ac9be8d9/test/z.ex,531:531,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,445:445,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,184:184,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,372:372,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,425:425,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,315:315,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,147:147,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,145:145,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,144:144,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,53:53,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,51:51,F,,,,,,,,,,,,,,,
+,3d07cfba,GitHub,ac9be8d9,data/ac9be8d9/test/cm.exs,50:50,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,95:95,F,,,,,,,,,,,,,,,
+,d2fe6ab0,GitHub,ac9be8d9,data/ac9be8d9/test/br.exs,37:37,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,450:450,F,,,,,,,,,,,,,,,
+,08701d20,GitHub,ac9be8d9,data/ac9be8d9/test/bt.exs,456:456,F,,,,,,,,,,,,,,,
+,fb14a5d1,GitHub,ac9be8d9,data/ac9be8d9/test/z.ex,568:568,F,,,,,,,,,,,,,,,
+,fb14a5d1,GitHub,ac9be8d9,data/ac9be8d9/test/z.ex,547:547,F,,,,,,,,,,,,,,,
+,fb14a5d1,GitHub,ac9be8d9,data/ac9be8d9/test/z.ex,557:557,F,,,,,,,,,,,,,,,
+,fb14a5d1,GitHub,ac9be8d9,data/ac9be8d9/test/z.ex,567:567,F,,,,,,,,,,,,,,,

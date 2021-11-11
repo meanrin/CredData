@@ -5,7 +5,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 16555,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,1050:1050,F,F,,,F,F,,,,,0,0,F,F,F,
 16587,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,1092:1092,F,F,,,F,F,,,,,0,0,F,F,F,
 16678,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,759:759,F,F,,,F,F,,,,,0,0,F,F,F,
-17766,fb086ca7,GitHub,3f5c0c63,data/3f5c0c63/src/c.js,19:19,F,F,,,F,F,,,,,0,0,F,F,F,
+17766,fb086ca7,GitHub,3f5c0c63,data/3f5c0c63/src/c.js,19:19,Template,F,,,F,F,,,,,0,0,F,F,F,
 17807,fb086ca7,GitHub,3f5c0c63,data/3f5c0c63/src/c.js,16:16,F,F,,,F,F,,,,,0,0,F,F,F,
 18629,4f70ac78,GitHub,3f5c0c63,data/3f5c0c63/src/b.js,15605:15605,F,F,,,F,F,,,,,0,0,F,F,F,
 18633,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,10815:10815,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -14,3 +14,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 18636,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,10105:10105,F,F,,,F,F,,,,,0,0,F,F,F,
 18637,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,10247:10247,F,F,,,F,F,,,,,0,0,F,F,F,
 42885,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,1039:1039,F,F,,,F,F,,,,,0,0,F,F,F,
+,3af3bffc,GitHub,3f5c0c63,data/3f5c0c63/src/a.js,7034:7034,F,,,,,,,,,,,,,,,

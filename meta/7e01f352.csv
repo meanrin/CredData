@@ -79,22 +79,22 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 23879,8f0182ab,GitHub,7e01f352,data/7e01f352/src/t.rb,27:27,F,F,,,F,F,,,,,0,0,F,F,F,
 23892,1396c138,GitHub,7e01f352,data/7e01f352/test/bd.rb,265:265,F,F,,,F,F,,,,,0,0,F,F,F,
 27648,8c1e3c76,GitHub,7e01f352,data/7e01f352/test/bg.json,8:8,F,F,13,18,F,F,,,,,0,0,F,F,F,
-27766,7e2523aa,GitHub,7e01f352,data/7e01f352/test/bf,7:7,Template,1,12,17,F,F,Any,,,Secret,1.92,5,F,F,F,Password
-30182,6dbc650f,GitHub,7e01f352,data/7e01f352/test/bj.rb,29:29,Template,0,14,21,F,F,Any,,,Unknown,2.52,7,F,F,F,Other
-33812,6dbc650f,GitHub,7e01f352,data/7e01f352/test/bj.rb,31:31,T,0,17,24,F,F,CharsOnly,,,Secret,2.81,7,F,F,F,Password
-34129,7cf1d784,GitHub,7e01f352,data/7e01f352/test/br.rb,1290:1290,Template,0,26,47,F,F,CharsOnly,,,Unknown,0.45,21,F,F,F,Other
+27766,7e2523aa,GitHub,7e01f352,data/7e01f352/test/bf,7:7,Template,T,12,17,F,F,Any,,,Secret,1.92,5,F,F,F,Password
+30182,6dbc650f,GitHub,7e01f352,data/7e01f352/test/bj.rb,29:29,Template,F,14,21,F,F,Any,,,Unknown,2.52,7,F,F,F,Other
+33812,6dbc650f,GitHub,7e01f352,data/7e01f352/test/bj.rb,31:31,T,F,17,24,F,F,CharsOnly,,,Secret,2.81,7,F,F,F,Password
+34129,7cf1d784,GitHub,7e01f352,data/7e01f352/test/br.rb,1290:1290,Template,F,26,47,F,F,CharsOnly,,,Unknown,0.45,21,F,F,F,Other
 34223,8c1e3c76,GitHub,7e01f352,data/7e01f352/test/bg.json,10:10,F,F,15,19,F,F,,,,,0,0,F,F,F,
-34418,13e581c1,GitHub,7e01f352,data/7e01f352/test/bh.yaml,7:7,T,1,12,17,F,F,Any,,,Secret,1.92,5,F,F,F,Password
-34967,8c1e3c76,GitHub,7e01f352,data/7e01f352/test/bg.json,9:9,T,1,13,18,F,F,Any,,,Secret,1.92,5,F,F,F,Password
-35261,61a9aaf2,GitHub,7e01f352,data/7e01f352/test/bp.pem,1:27,T,1,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
-35329,80f876c8,GitHub,7e01f352,data/7e01f352/test/bo.pem,1:27,T,1,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
-36148,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,33:33,T,1,8,12,F,F,CharsOnly,,,Unknown,1.50,4,F,F,F,Other
+34418,13e581c1,GitHub,7e01f352,data/7e01f352/test/bh.yaml,7:7,Template,T,12,17,F,F,Any,,,Secret,1.92,5,F,F,F,Password
+34967,8c1e3c76,GitHub,7e01f352,data/7e01f352/test/bg.json,9:9,Template,T,13,18,F,F,Any,,,Secret,1.92,5,F,F,F,Password
+35261,61a9aaf2,GitHub,7e01f352,data/7e01f352/test/bp.pem,1:27,T,T,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
+35329,80f876c8,GitHub,7e01f352,data/7e01f352/test/bo.pem,1:27,T,T,,,F,F,Any,Private,,Unknown,2.53,31,F,F,F,Private Key
+36148,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,33:33,Template,T,8,12,F,F,CharsOnly,,,Unknown,1.50,4,F,F,F,Other
 42388,71dd2038,GitHub,7e01f352,data/7e01f352/src/n.rb,85:85,F,F,,,F,F,,,,,0,0,F,F,F,
 42389,71dd2038,GitHub,7e01f352,data/7e01f352/src/n.rb,431:431,F,F,,,F,F,,,,,0,0,F,F,F,
 47463,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,79:79,F,F,,,F,F,,,,,0,0,F,F,F,
 47732,3a9b8e41,GitHub,7e01f352,data/7e01f352/test/bl.rb,265:265,F,F,,,F,F,,,,,0,0,F,F,F,
 47738,51dfb24d,GitHub,7e01f352,data/7e01f352/test/bb.rb,101:101,F,F,,,F,F,,,,,0,0,F,F,F,
-47759,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,72:72,T,0,52,84,F,F,Any,,,SeedSalt,3.50,32,F,F,F,"Seed, Salt, Nonce"
+47759,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,72:72,T,F,52,84,F,F,Any,,,SeedSalt,3.50,32,F,F,F,"Seed, Salt, Nonce"
 56091,7e2523aa,GitHub,7e01f352,data/7e01f352/test/bf,8:8,F,F,,,F,F,,,,,0,0,F,F,F,
 56102,c21a9931,GitHub,7e01f352,data/7e01f352/test/bn.rb,109:109,F,F,,,F,F,,,,,0,0,F,F,F,
 56103,c21a9931,GitHub,7e01f352,data/7e01f352/test/bn.rb,233:233,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -126,4 +126,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82107,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,95:95,F,F,41,56,F,F,,,,,0,0,F,F,F,
 82108,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,96:96,F,F,43,58,F,F,,,,,0,0,F,F,F,
 82109,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,97:97,F,F,5,13,F,F,,,,,0,0,F,F,F,
-82110,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,102:102,T,0,52,84,F,F,NumbersOnly,,,SeedSalt,3.50,32,F,F,F,"Seed, Salt, Nonce"
+82110,1925951b,GitHub,7e01f352,data/7e01f352/test/bi.rb,102:102,T,F,52,84,F,F,NumbersOnly,,,SeedSalt,3.50,32,F,F,F,"Seed, Salt, Nonce"
+,91e5a4d1,GitHub,7e01f352,data/7e01f352/src/s.rb,225:225,F,,,,,,,,,,,,,,,
+,7cf1d784,GitHub,7e01f352,data/7e01f352/test/br.rb,829:829,F,,,,,,,,,,,,,,,
+,7cf1d784,GitHub,7e01f352,data/7e01f352/test/br.rb,823:823,F,,,,,,,,,,,,,,,
+,51dfb24d,GitHub,7e01f352,data/7e01f352/test/bb.rb,299:299,F,,,,,,,,,,,,,,,
+,51dfb24d,GitHub,7e01f352,data/7e01f352/test/bb.rb,351:351,F,,,,,,,,,,,,,,,
