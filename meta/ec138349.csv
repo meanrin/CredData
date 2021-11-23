@@ -109,13 +109,13 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 30508,2f9b15a9,GitHub,ec138349,data/ec138349/test/bt.java,117:117,F,F,61,66,T,F,NumbersOnly,,,Token,2.32,5,F,F,F,Generic Token
 30511,2f9b15a9,GitHub,ec138349,data/ec138349/test/bt.java,107:107,F,F,74,79,T,F,NumbersOnly,,,Token,2.32,5,F,F,F,Generic Token
 30631,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,40:40,T,T,18,39,T,F,Any,,,Token,3.18,21,F,F,F,Generic Token
-30959,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,32:32,Template,T,92,113,T,F,Any,,,Token,3.18,21,F,F,F,Generic Token
+30959,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,32:32,F,T,92,113,T,F,Any,,,Token,3.18,21,F,F,F,Generic Token
 30960,ac6bc64b,GitHub,ec138349,data/ec138349/src/a.xml,42:42,Template,F,64,80,F,F,Any,,,Secret,0.77,16,F,F,F,Password
 30961,4261598e,GitHub,ec138349,data/ec138349/test/bb.xml,36:36,Template,F,64,80,F,F,Any,,,Secret,0.77,16,F,F,F,Password
 30963,73887711,GitHub,ec138349,data/ec138349/test/cl.xml,23:23,F,F,124,127,F,F,,,,,0,0,F,F,F,
 30969,85da4b1a,GitHub,ec138349,data/ec138349/test/co.xml,46:46,F,F,40,46,F,F,,,,,0,0,F,F,F,
 30980,ac6bc64b,GitHub,ec138349,data/ec138349/src/a.xml,27:27,Template,F,28,31,F,F,CharsOnly,,,Secret,1.58,3,F,F,F,Password
-30998,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,39:39,Template,T,67,73,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
+30998,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,39:39,F,T,67,73,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
 31119,37c07333,GitHub,ec138349,data/ec138349/test/dd.yml,16:16,Template,T,20,26,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
 31739,74dff624,GitHub,ec138349,data/ec138349/test/ce.java,156:167,T,T,,,F,F,Any,Private,,Unknown,2.48,35,F,F,F,Private Key
 32381,8ca6f43a,GitHub,ec138349,data/ec138349/test/i.java,189:189,T,F,25,57,F,F,Any,,,Unknown,3.53,32,F,F,F,Other
@@ -207,15 +207,34 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82634,37c07333,GitHub,ec138349,data/ec138349/test/dd.yml,17:17,Template,F,4,12,F,F,,,,,0,0,F,F,F,
 82635,525afad4,GitHub,ec138349,data/ec138349/test/cg.java,247:247,F,F,0,88,F,F,,,,,0,0,F,F,F,
 82636,525afad4,GitHub,ec138349,data/ec138349/test/cg.java,268:268,F,F,0,122,F,F,,,,,0,0,F,F,F,
-,1c39b347,GitHub,ec138349,data/ec138349/test/y.java,54:54,F,,,,,,,,,,,,,,,
-,1c39b347,GitHub,ec138349,data/ec138349/test/y.java,88:88,F,,,,,,,,,,,,,,,
+,ff764887,GitHub,ec138349,data/ec138349/src/bm.java,85:85,F,,,,,,,,,,,,,,,
+,9a21089d,GitHub,ec138349,data/ec138349/test/ba.xml,49:49,F,,,,,,,,,,,,,,,
+,4261598e,GitHub,ec138349,data/ec138349/test/bb.xml,50:50,Template,,17,33,,,,,,,,,,,,
+,7c0a564e,GitHub,ec138349,data/ec138349/test/bv.java,88:88,F,,,,,,,,,,,,,,,
+,73887711,GitHub,ec138349,data/ec138349/test/cl.xml,13:13,F,,,,,,,,,,,,,,,
+,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,12:12,F,,,,,,,,,,,,,,,
+,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,19:19,F,,,,,,,,,,,,,,,
+,76fb89fa,GitHub,ec138349,data/ec138349/test/cm.xml,35:35,F,,,,,,,,,,,,,,,
+,93ba915a,GitHub,ec138349,data/ec138349/test/cs.java,83:83,F,,,,,,,,,,,,,,,
+,7df3d414,GitHub,ec138349,data/ec138349/test/cx.java,123:123,F,,,,,,,,,,,,,,,
+,8ebabaf2,GitHub,ec138349,data/ec138349/test/cz.java,89:89,F,,,,,,,,,,,,,,,
+,fbd12b2e,GitHub,ec138349,data/ec138349/test/db.java,126:126,F,,,,,,,,,,,,,,,
+,24325dd6,GitHub,ec138349,data/ec138349/test/di.sql,60:60,F,,,,,,,,,,,,,,,
+,3ba94f3c,GitHub,ec138349,data/ec138349/test/dj.xml,32:32,F,,,,,,,,,,,,,,,
+,4a0999f9,GitHub,ec138349,data/ec138349/test/dk.xml,29:29,F,,,,,,,,,,,,,,,
+,8ca6f43a,GitHub,ec138349,data/ec138349/test/i.java,164:164,F,,,,,,,,,,,,,,,
+,8ca6f43a,GitHub,ec138349,data/ec138349/test/i.java,176:176,F,,,,,,,,,,,,,,,
+,d965f676,GitHub,ec138349,data/ec138349/test/n.java,70:70,F,,,,,,,,,,,,,,,
+,d965f676,GitHub,ec138349,data/ec138349/test/n.java,81:81,F,,,,,,,,,,,,,,,
 ,73887711,GitHub,ec138349,data/ec138349/test/cl.xml,14:14,F,,,,,,,,,,,,,,,
 ,f4c62d0f,GitHub,ec138349,data/ec138349/test/cn.xml,55:55,F,,,,,,,,,,,,,,,
 ,85da4b1a,GitHub,ec138349,data/ec138349/test/co.xml,37:37,F,,,,,,,,,,,,,,,
 ,85da4b1a,GitHub,ec138349,data/ec138349/test/co.xml,51:51,F,,,,,,,,,,,,,,,
 ,3ba94f3c,GitHub,ec138349,data/ec138349/test/dj.xml,24:24,F,,,,,,,,,,,,,,,
 ,4a0999f9,GitHub,ec138349,data/ec138349/test/dk.xml,21:21,F,,,,,,,,,,,,,,,
-,18b43943,GitHub,ec138349,data/ec138349/test/m.java,115:115,F,,,,,,,,,,,,,,,
+,2ad086c4,GitHub,ec138349,data/ec138349/test/h.java,376:376,T,,26,31,,,,,,,,,,,,
 ,18b43943,GitHub,ec138349,data/ec138349/test/m.java,98:98,F,,,,,,,,,,,,,,,
-,2ad086c4,GitHub,ec138349,data/ec138349/test/h.java,376:376,T,,,,,,,,,,,,,,,
+,18b43943,GitHub,ec138349,data/ec138349/test/m.java,115:115,F,,,,,,,,,,,,,,,
 ,2d2abc99,GitHub,ec138349,data/ec138349/test/w.java,440:440,F,,,,,,,,,,,,,,,
+,1c39b347,GitHub,ec138349,data/ec138349/test/y.java,54:54,F,,,,,,,,,,,,,,,
+,1c39b347,GitHub,ec138349,data/ec138349/test/y.java,88:88,F,,,,,,,,,,,,,,,

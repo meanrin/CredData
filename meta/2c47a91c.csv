@@ -7,7 +7,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 4748,f4cd0e61,GitHub,2c47a91c,data/2c47a91c/src/l.js,65:65,F,F,,,F,F,,,,,0,0,F,F,F,
 7800,674f563f,GitHub,2c47a91c,data/2c47a91c/src/g.js,128:128,F,F,,,F,F,,,,,0,0,F,F,F,
 9034,0f2a9acd,GitHub,2c47a91c,data/2c47a91c/src/f.js,19:19,F,F,,,F,F,,,,,0,0,F,F,F,
-9063,0f2a9acd,GitHub,2c47a91c,data/2c47a91c/src/f.js,20:20,F,F,,,F,F,,,,,0,0,F,F,F,
+9063,0f2a9acd,GitHub,2c47a91c,data/2c47a91c/src/f.js,20:20,Template,F,,,F,F,,,,,0,0,F,F,F,
 11224,4bb69574,GitHub,2c47a91c,data/2c47a91c/src/i.js,1:1,F,F,,,F,F,,,,,0,0,F,F,F,
 12723,b8a7c402,GitHub,2c47a91c,data/2c47a91c/other/c.md,36:36,F,F,,,F,F,,,,,0,0,F,F,F,
 13311,76cc7f7a,GitHub,2c47a91c,data/2c47a91c/src/a.yml,17:17,F,F,,,F,F,,,,,0,0,F,F,F,

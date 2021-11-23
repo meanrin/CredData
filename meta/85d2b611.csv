@@ -11,8 +11,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 21247,acdcc82e,GitHub,85d2b611,data/85d2b611/test/r.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
 21248,f7d91798,GitHub,85d2b611,data/85d2b611/test/p.json,19:19,F,F,,,F,F,,,,,0,0,F,F,F,
 24990,2f38e05e,GitHub,85d2b611,data/85d2b611/test/d.py,13:13,F,F,,,F,F,,,,,0,0,F,F,F,
-25143,800b6d43,GitHub,85d2b611,data/85d2b611/src/a.py,2:2,F,F,,,F,F,,,,,0,0,F,F,F,
-25144,2f38e05e,GitHub,85d2b611,data/85d2b611/test/d.py,4:4,F,F,,,F,F,,,,,0,0,F,F,F,
+25143,800b6d43,GitHub,85d2b611,data/85d2b611/src/a.py,2:2,Template,F,,,F,F,,,,,0,0,F,F,F,
+25144,2f38e05e,GitHub,85d2b611,data/85d2b611/test/d.py,4:4,Template,F,,,F,F,,,,,0,0,F,F,F,
 26498,49eece0c,GitHub,85d2b611,data/85d2b611/src/e.jsx,109:109,F,F,,,F,F,,,,,0,0,F,F,F,
 28989,f7d91798,GitHub,85d2b611,data/85d2b611/test/p.json,133:133,F,F,10,16,F,F,,,,,0,0,F,F,F,
 29295,57f701b2,GitHub,85d2b611,data/85d2b611/src/m.py,103:103,Template,F,38,41,T,F,CharsOnly,,,Secret,1.58,3,F,F,F,Password

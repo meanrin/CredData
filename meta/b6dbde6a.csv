@@ -24,7 +24,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 29244,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,473:473,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
 29648,b5c47a7b,GitHub,b6dbde6a,data/b6dbde6a/other/h.md,64:64,Template,F,10,18,F,F,CharsOnly,,,Secret,0,8,F,F,F,Password
 29741,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,33:33,Template,T,17,32,F,F,Any,,,Secret,3.38,15,F,F,F,Password
-29742,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,38:38,Template,T,17,34,F,F,Any,,,Secret,2.73,17,F,F,F,Password
+29742,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,38:38,F,T,17,34,F,F,Any,,,Secret,2.73,17,F,F,F,Password
 29775,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,39:39,Template,T,17,38,F,F,Any,,,Secret,2.68,21,F,F,F,Password
 29776,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,49:49,Template,F,17,29,F,F,Any,,,Secret,2.99,12,F,F,F,Password
 29778,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,34:34,Template,T,17,29,F,F,Any,,,Secret,3.12,12,F,F,F,Password
@@ -37,7 +37,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 34530,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,29:29,T,F,17,25,F,F,Any,,,Secret,2.62,8,F,F,F,Password
 34533,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,24:24,Template,T,17,32,F,F,Any,,,Secret,3.25,15,F,F,F,Password
 41977,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,44:44,Template,T,17,38,F,F,Any,,,Secret,2.68,21,F,F,F,Password
-41978,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,43:43,Template,T,17,34,F,F,Any,,,Secret,2.73,17,F,F,F,Password
+41978,3e103440,GitHub,b6dbde6a,data/b6dbde6a/src/b.yml,43:43,F,T,17,34,F,F,Any,,,Secret,2.73,17,F,F,F,Password
 47715,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,522:522,Template,F,10,18,F,F,CharsOnly,,,Secret,0,8,F,F,F,Password
 55971,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,497:497,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
 55972,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,521:521,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
@@ -47,4 +47,27 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 62950,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,484:484,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
 62951,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,512:512,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
 62952,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,543:543,Template,F,16,24,F,F,Any,,,Token,3.00,8,F,F,F,Generic Token
+,b3356305,GitHub,b6dbde6a,data/b6dbde6a/other/c.md,20:20,F,,,,,,,,,,,,,,,
+,b3356305,GitHub,b6dbde6a,data/b6dbde6a/other/c.md,31:31,F,,,,,,,,,,,,,,,
+,b5c47a7b,GitHub,b6dbde6a,data/b6dbde6a/other/h.md,12:12,F,,,,,,,,,,,,,,,
+,b5c47a7b,GitHub,b6dbde6a,data/b6dbde6a/other/h.md,51:51,F,,,,,,,,,,,,,,,
+,b5c47a7b,GitHub,b6dbde6a,data/b6dbde6a/other/h.md,54:54,F,,,,,,,,,,,,,,,
+,3d2b5918,GitHub,b6dbde6a,data/b6dbde6a/src/g.js,4861:4861,F,,,,,,,,,,,,,,,
+,3d2b5918,GitHub,b6dbde6a,data/b6dbde6a/src/g.js,13444:13444,F,,,,,,,,,,,,,,,
+,3d2b5918,GitHub,b6dbde6a,data/b6dbde6a/src/g.js,13445:13445,F,,,,,,,,,,,,,,,
+,cadf319e,GitHub,b6dbde6a,data/b6dbde6a/test/d.ts,135:135,F,,,,,,,,,,,,,,,
+,cadf319e,GitHub,b6dbde6a,data/b6dbde6a/test/d.ts,146:146,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,233:233,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,247:247,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,267:267,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,298:298,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,299:299,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,300:300,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,301:301,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,332:332,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,333:333,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,334:334,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,335:335,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,347:347,F,,,,,,,,,,,,,,,
+,35112c3e,GitHub,b6dbde6a,data/b6dbde6a/test/e.ts,357:357,F,,,,,,,,,,,,,,,
 ,3d2b5918,GitHub,b6dbde6a,data/b6dbde6a/src/g.js,7628:7628,F,,,,,,,,,,,,,,,

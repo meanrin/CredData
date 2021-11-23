@@ -674,4 +674,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 80017,9b1a0b33,GitHub,1ce69180,data/1ce69180/test/e.md,105:105,Template,T,30,50,F,F,Any,,,Secret,3.01,20,F,F,F,Password
 80018,9b1a0b33,GitHub,1ce69180,data/1ce69180/test/e.md,124:124,Template,T,30,50,F,F,Any,,,Secret,3.01,20,F,F,F,Password
 80019,9b1a0b33,GitHub,1ce69180,data/1ce69180/test/e.md,159:159,Template,T,30,50,F,F,Any,,,Secret,3.01,20,F,F,F,Password
+,e7c55fa4,GitHub,1ce69180,data/1ce69180/src/f.rb,8:8,F,,,,,,,,,,,,,,,
+,e7c55fa4,GitHub,1ce69180,data/1ce69180/src/f.rb,36:36,F,,,,,,,,,,,,,,,
 ,fcf0ceac,GitHub,1ce69180,data/1ce69180/src/t.txt,4:4,F,,,,,,,,,,,,,,,

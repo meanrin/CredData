@@ -51,10 +51,10 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 30799,904f6890,GitHub,c9201a51,data/c9201a51/test/t.go,14:14,Template,F,19,51,F,F,Any,,,Secret,3.96,32,F,F,F,Generic Secret
 32429,c38a4050,GitHub,c9201a51,data/c9201a51/test/d.go,27:27,T,F,20,64,F,F,Any,,,Secret,4.54,44,F,F,F,Generic Secret
 33850,5391075a,GitHub,c9201a51,data/c9201a51/test/h.go,668:668,Template,T,67,78,F,F,Any,,,Token,2.78,11,F,F,F,Generic Token
-35919,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,170:170,F,F,18,34,F,F,,,,,0,0,F,F,F,
+35919,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,170:170,Template,F,18,34,F,F,,,,,0,0,F,F,F,
 35920,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,205:205,T,F,18,50,F,F,Any,,,Secret,4.23,32,F,F,F,Generic Secret
 35922,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,209:209,T,F,18,42,F,F,Any,,,Secret,4.17,24,F,F,F,Generic Secret
-35923,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,163:163,F,F,18,43,F,F,,,,,0,0,F,F,F,
+35923,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,163:163,Template,F,18,43,F,F,,,,,0,0,F,F,F,
 35925,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,197:197,T,F,18,62,F,F,Any,,,Secret,4.75,44,F,F,F,Generic Secret
 42460,7e1e1329,GitHub,c9201a51,data/c9201a51/src/g.go,410:410,F,F,,,F,F,,,,,0,0,F,F,F,
 46269,3437863d,GitHub,c9201a51,data/c9201a51/test/o.go,130:130,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -69,6 +69,12 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 63486,904f6890,GitHub,c9201a51,data/c9201a51/test/t.go,13:13,F,F,,,F,F,,,,,0,0,F,F,F,
 74829,5391075a,GitHub,c9201a51,data/c9201a51/test/h.go,234:234,Template,T,29,42,F,F,Any,,,Token,2.98,13,F,F,F,Generic Token
 82686,7e1e1329,GitHub,c9201a51,data/c9201a51/src/g.go,710:710,F,F,19,26,F,F,,,,,0,0,F,F,F,
+,b3356305,GitHub,c9201a51,data/c9201a51/other/a.md,193:193,F,,,,,,,,,,,,,,,
+,b3356305,GitHub,c9201a51,data/c9201a51/other/a.md,278:278,F,,,,,,,,,,,,,,,
+,b3356305,GitHub,c9201a51,data/c9201a51/other/a.md,325:325,F,,,,,,,,,,,,,,,
+,7e1e1329,GitHub,c9201a51,data/c9201a51/src/g.go,170:170,F,,,,,,,,,,,,,,,
+,4eec45b6,GitHub,c9201a51,data/c9201a51/src/i.go,209:209,F,,,,,,,,,,,,,,,
+,4eec45b6,GitHub,c9201a51,data/c9201a51/src/i.go,328:328,F,,,,,,,,,,,,,,,
 ,b3356305,GitHub,c9201a51,data/c9201a51/other/a.md,200:200,F,,,,,,,,,,,,,,,
 ,2873f79a,GitHub,c9201a51,data/c9201a51/src/f.go,66:66,F,,,,,,,,,,,,,,,
 ,2fc06eaa,GitHub,c9201a51,data/c9201a51/test/j.go,149:149,F,,,,,,,,,,,,,,,

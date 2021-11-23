@@ -32,6 +32,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 36325,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,87:87,Template,T,78,86,T,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
 49188,b3356305,GitHub,9ccb72ee,data/9ccb72ee/other/a.md,522:522,F,F,,,F,F,,,,,0,0,F,F,F,
 74567,fa5c4ddf,GitHub,9ccb72ee,data/9ccb72ee/src/h.rb,63:63,F,F,,,F,F,,,,,0,0,F,F,F,
-,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,429:429,Template,,,,,,,,,,,,,,,
-,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,444:444,Template,,,,,,,,,,,,,,,
 ,42d10ebe,GitHub,9ccb72ee,data/9ccb72ee/src/b.rb,94:94,F,,,,,,,,,,,,,,,
+,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,429:429,Template,,50,56,,,,,,,,,,,,
+,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,444:444,Template,,50,56,,,,,,,,,,,,

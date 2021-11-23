@@ -80,4 +80,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74959,43569e92,GitHub,78e5819e,data/78e5819e/src/ba.vue,43:43,F,F,,,F,F,,,,,0,0,F,F,F,
 74960,3a18d0a7,GitHub,78e5819e,data/78e5819e/src/bc.vue,52:52,F,F,,,F,F,,,,,0,0,F,F,F,
 74961,be4fbf03,GitHub,78e5819e,data/78e5819e/src/bd.vue,111:111,F,F,,,F,F,,,,,0,0,F,F,F,
+,b3356305,GitHub,78e5819e,data/78e5819e/other/a.md,103:103,F,,,,,,,,,,,,,,,
 ,be4fbf03,GitHub,78e5819e,data/78e5819e/src/bd.vue,76:76,F,,,,,,,,,,,,,,,

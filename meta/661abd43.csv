@@ -37,9 +37,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 29483,c7406914,GitHub,661abd43,data/661abd43/src/n.libsonnet,106:106,F,F,7,9,F,F,,,,,0,0,F,F,F,
 30557,b3356305,GitHub,661abd43,data/661abd43/other/b.md,149:149,Template,T,12,27,F,F,Any,,,Secret,2.99,15,F,F,F,Password
 31238,b3356305,GitHub,661abd43,data/661abd43/other/b.md,1281:1281,Template,T,22,50,F,F,Any,,,Secret,2.82,28,F,F,F,Password
-31378,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,67:67,Template,T,13,31,F,F,Any,,,Secret,3.00,18,F,F,F,Password
-31387,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,347:347,Template,T,13,35,F,F,Any,,,Secret,3.31,22,F,F,F,Password
-31396,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,65:65,Template,F,13,28,F,F,Any,,,Secret,2.99,15,F,F,F,Password
+31378,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,67:67,F,T,13,31,F,F,Any,,,Secret,3.00,18,F,F,F,Password
+31387,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,347:347,F,T,13,35,F,F,Any,,,Secret,3.31,22,F,F,F,Password
+31396,b54b39f1,GitHub,661abd43,data/661abd43/src/a.yml,65:65,F,F,13,28,F,F,Any,,,Secret,2.99,15,F,F,F,Password
 32393,f9f5d358,GitHub,661abd43,data/661abd43/test/j.go,23:23,T,F,26,278,F,F,CharsOnly,,,Auth,5.48,252,F,F,F,Authentication Key & Token
 32394,f9f5d358,GitHub,661abd43,data/661abd43/test/j.go,25:25,T,F,24,348,F,F,CharsOnly,,,Auth,5.43,324,F,F,F,Authentication Key & Token
 34221,c7406914,GitHub,661abd43,data/661abd43/src/n.libsonnet,213:213,F,T,28,43,F,F,Any,,,Secret,3.20,15,F,F,F,Password
@@ -64,7 +64,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 55028,b3356305,GitHub,661abd43,data/661abd43/other/b.md,985:985,F,F,,,F,F,,,,,0,0,F,F,F,
 55029,b3356305,GitHub,661abd43,data/661abd43/other/b.md,992:992,Template,F,10,17,F,F,Any,,,Token,0,7,F,F,F,Generic Token
 78085,e8473738,GitHub,661abd43,data/661abd43/src/d.pem,6:28,F,F,,,F,F,,,,,0,0,F,F,F,
-,2873f79a,GitHub,661abd43,data/661abd43/src/m.go,70:70,F,,,,,,,,,,,,,,,
-,2873f79a,GitHub,661abd43,data/661abd43/src/m.go,66:66,F,,,,,,,,,,,,,,,
+,c7406914,GitHub,661abd43,data/661abd43/src/n.libsonnet,88:88,F,,,,,,,,,,,,,,,
+,c7406914,GitHub,661abd43,data/661abd43/src/n.libsonnet,89:89,F,,,,,,,,,,,,,,,
 ,3295df72,GitHub,661abd43,data/661abd43/src/g.sum,308:308,F,,,,,,,,,,,,,,,
 ,3295df72,GitHub,661abd43,data/661abd43/src/g.sum,309:309,F,,,,,,,,,,,,,,,
+,2873f79a,GitHub,661abd43,data/661abd43/src/m.go,66:66,F,,,,,,,,,,,,,,,
+,2873f79a,GitHub,661abd43,data/661abd43/src/m.go,70:70,F,,,,,,,,,,,,,,,

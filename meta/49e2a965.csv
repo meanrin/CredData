@@ -57,4 +57,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82701,30ef539d,GitHub,49e2a965,data/49e2a965/test/r.ts,116:116,Template,F,17,27,F,F,Any,,,Secret,3.32,10,F,F,F,Password
 82702,85f228e9,GitHub,49e2a965,data/49e2a965/test/j.ts,70:70,F,F,13,34,F,F,,,,,0,0,F,F,F,
 82703,85f228e9,GitHub,49e2a965,data/49e2a965/test/j.ts,144:144,Template,F,17,20,F,F,CharsOnly,,,Secret,1.58,3,F,F,F,Password
+,7f6254f3,GitHub,49e2a965,data/49e2a965/other/a.md,42:42,F,,,,,,,,,,,,,,,
+,7f6254f3,GitHub,49e2a965,data/49e2a965/other/a.md,53:53,F,,,,,,,,,,,,,,,
+,7f6254f3,GitHub,49e2a965,data/49e2a965/other/a.md,105:105,F,,,,,,,,,,,,,,,
+,97db29a7,GitHub,49e2a965,data/49e2a965/other/b.md,129:129,F,,,,,,,,,,,,,,,
 ,ae95a565,GitHub,49e2a965,data/49e2a965/other/c.md,32:32,F,,,,,,,,,,,,,,,

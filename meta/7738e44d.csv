@@ -93,4 +93,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 52881,7c24a9da,GitHub,7738e44d,data/7738e44d/other/c.md,223:223,Template,T,17,26,F,F,CharsOnly,,JSON Web Token,Token,2.50,9,F,F,F,Predefined Pattern
 54767,7c24a9da,GitHub,7738e44d,data/7738e44d/other/c.md,214:214,F,F,,,F,F,,,,,0,0,F,F,F,
 54768,7c24a9da,GitHub,7738e44d,data/7738e44d/other/c.md,224:224,F,F,,,F,F,,,,,0,0,F,F,F,
+,d116b6cc,GitHub,7738e44d,data/7738e44d/src/d.rb,14:14,F,,,,,,,,,,,,,,,
+,d116b6cc,GitHub,7738e44d,data/7738e44d/src/d.rb,50:50,F,,,,,,,,,,,,,,,
+,d116b6cc,GitHub,7738e44d,data/7738e44d/src/d.rb,166:166,F,,,,,,,,,,,,,,,
 ,d116b6cc,GitHub,7738e44d,data/7738e44d/src/d.rb,126:126,F,,,,,,,,,,,,,,,
