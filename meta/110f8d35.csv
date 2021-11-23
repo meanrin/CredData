@@ -121,7 +121,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 30827,3e9feece,GitHub,110f8d35,data/110f8d35/test/cg.xml,35:35,Template,F,72,78,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
 30828,172840ed,GitHub,110f8d35,data/110f8d35/test/ce.xml,47:47,Template,F,72,78,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
 30834,175111f3,GitHub,110f8d35,data/110f8d35/src/br.xml,31:31,Template,F,73,79,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
-30900,0a12f8be,GitHub,110f8d35,data/110f8d35/src/bo.java,61:61,T,F,25,113,F,F,,,,,0,0,F,F,F,
+30900,0a12f8be,GitHub,110f8d35,data/110f8d35/src/bo.java,61:61,T,T,25,113,F,F,Any,,,Secret,5.50,88,F,F,F,Password
 30914,d6df55f1,GitHub,110f8d35,data/110f8d35/test/cf.xml,195:195,Template,F,104,107,F,F,NumbersOnly,,,Secret,1.58,3,F,F,F,Password
 30922,d6df55f1,GitHub,110f8d35,data/110f8d35/test/cf.xml,201:201,Template,F,104,107,F,F,NumbersOnly,,,Secret,1.58,3,F,F,F,Password
 30924,175111f3,GitHub,110f8d35,data/110f8d35/src/br.xml,45:45,Template,F,81,87,F,F,NumbersOnly,,,Secret,2.58,6,F,F,F,Password
