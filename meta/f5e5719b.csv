@@ -49,3 +49,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 102751,b535c2ca,GitHub,f5e5719b,data/f5e5719b/src/h.go,61:61,F,F,,,F,F,,,,,0.00,,F,F,F,
 102752,b535c2ca,GitHub,f5e5719b,data/f5e5719b/src/h.go,62:62,F,F,,,F,F,,,,,0.00,,F,F,F,
 102753,a21807ce,GitHub,f5e5719b,data/f5e5719b/src/i.go,71:71,F,F,,,F,F,,,,,0.00,,F,F,F,
+113793,3295df72,GitHub,f5e5719b,data/f5e5719b/src/d.sum,167:167,F,F,,,F,F,,,,,0.00,,F,F,F,
+113794,3295df72,GitHub,f5e5719b,data/f5e5719b/src/d.sum,168:168,F,F,,,F,F,,,,,0.00,,F,F,F,
+113795,3295df72,GitHub,f5e5719b,data/f5e5719b/src/d.sum,169:169,F,F,,,F,F,,,,,0.00,,F,F,F,
+113796,3295df72,GitHub,f5e5719b,data/f5e5719b/src/d.sum,170:170,F,F,,,F,F,,,,,0.00,,F,F,F,

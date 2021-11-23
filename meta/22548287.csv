@@ -150,3 +150,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76178,e99e1edd,GitHub,22548287,data/22548287/src/x.yml,209:209,F,F,,,F,F,,,,,0,0,F,F,F,
 101442,aca9b509,GitHub,22548287,data/22548287/src/a.env,3:3,F,F,,,F,F,,,,,0.00,,F,F,F,
 101443,b9c876aa,GitHub,22548287,data/22548287/src/z.yml,16:16,Template,T,17,25,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+110652,b0bd5063,GitHub,22548287,data/22548287/src/t.yml,10:10,F,F,,,F,F,,,,,0.00,,F,F,F,
+110653,77f993cc,GitHub,22548287,data/22548287/src/ba.rake,26:26,F,F,,,F,F,,,,,0.00,,F,F,F,

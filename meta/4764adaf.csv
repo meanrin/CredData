@@ -467,3 +467,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82297,7e37e5b4,GitHub,4764adaf,data/4764adaf/test/bv.js,9889:9889,Template,T,11,19,F,F,CharsOnly,,,Secret,2.75,8,F,F,F,Password
 100509,f07c4281,GitHub,4764adaf,data/4764adaf/src/c.json,12:12,Template,T,16,37,F,F,Any,,,Secret,2.11,21,F,F,F,Password
 100510,f07c4281,GitHub,4764adaf,data/4764adaf/src/c.json,27:27,Template,T,11,32,F,F,Any,,,Secret,2.11,21,F,F,F,Password
+110119,32dc0f3b,GitHub,4764adaf,data/4764adaf/src/p.js,179:179,F,F,,,F,F,,,,,0.00,,F,F,F,
+110120,b42fa7a3,GitHub,4764adaf,data/4764adaf/src/o.js,16:16,F,F,,,F,F,,,,,0.00,,F,F,F,

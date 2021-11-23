@@ -36,3 +36,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76542,b3356305,GitHub,873d2d8b,data/873d2d8b/other/a.md,506:506,F,F,,,F,F,,,,,0,0,F,F,F,
 76543,b3356305,GitHub,873d2d8b,data/873d2d8b/other/a.md,1369:1369,F,F,,,F,F,,,,,0,0,F,F,F,
 100680,201092fe,GitHub,873d2d8b,data/873d2d8b/test/j.js,6:6,F,F,,,F,F,,,,,0.00,,F,F,F,
+110276,b3356305,GitHub,873d2d8b,data/873d2d8b/other/a.md,501:501,F,F,,,F,F,,,,,0.00,,F,F,F,
+110277,b3356305,GitHub,873d2d8b,data/873d2d8b/other/a.md,1355:1355,F,F,,,F,F,,,,,0.00,,F,F,F,
+110278,b2bc4218,GitHub,873d2d8b,data/873d2d8b/other/c.md,173:173,F,F,,,F,F,,,,,0.00,,F,F,F,
+110279,b2bc4218,GitHub,873d2d8b,data/873d2d8b/other/c.md,1030:1030,F,F,,,F,F,,,,,0.00,,F,F,F,
+110280,47bdc06e,GitHub,873d2d8b,data/873d2d8b/test/f.js,1:1,F,F,,,F,F,,,,,0.00,,F,F,F,

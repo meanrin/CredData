@@ -35,3 +35,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 107602,42d10ebe,GitHub,9ccb72ee,data/9ccb72ee/src/b.rb,94:94,F,F,,,F,F,,,,,0.00,,F,F,F,
 107603,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,429:429,Template,T,50,56,F,F,CharOnly,,,Secret,2.25,6,F,F,F,Password
 107604,3b57f191,GitHub,9ccb72ee,data/9ccb72ee/src/g.rb,444:444,Template,T,50,56,F,F,CharOnly,,,Secret,2.25,6,F,F,F,Password
+114059,3e7b3bfa,GitHub,9ccb72ee,data/9ccb72ee/src/c.rb,272:272,F,F,,,F,F,,,,,0.00,,F,F,F,
+114060,3e7b3bfa,GitHub,9ccb72ee,data/9ccb72ee/src/c.rb,696:696,F,F,,,F,F,,,,,0.00,,F,F,F,
+114061,3e7b3bfa,GitHub,9ccb72ee,data/9ccb72ee/src/c.rb,136:136,F,F,,,F,F,,,,,0.00,,F,F,F,
+114062,3e7b3bfa,GitHub,9ccb72ee,data/9ccb72ee/src/c.rb,564:564,F,F,,,F,F,,,,,0.00,,F,F,F,
+114063,b3356305,GitHub,9ccb72ee,data/9ccb72ee/other/a.md,658:658,F,F,,,F,F,,,,,0.00,,F,F,F,

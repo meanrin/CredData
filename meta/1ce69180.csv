@@ -677,3 +677,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 107609,e7c55fa4,GitHub,1ce69180,data/1ce69180/src/f.rb,8:8,F,F,,,F,F,,,,,0.00,,F,F,F,
 107610,e7c55fa4,GitHub,1ce69180,data/1ce69180/src/f.rb,36:36,F,F,,,F,F,,,,,0.00,,F,F,F,
 107611,fcf0ceac,GitHub,1ce69180,data/1ce69180/src/t.txt,4:4,F,F,,,F,F,,,,,0.00,,F,F,F,
+114064,5e754a57,GitHub,1ce69180,data/1ce69180/src/w.rb,22:22,F,F,,,F,F,,,,,0.00,,F,F,F,
+114065,5e754a57,GitHub,1ce69180,data/1ce69180/src/w.rb,30:30,F,F,,,F,F,,,,,0.00,,F,F,F,
+114066,fcf0ceac,GitHub,1ce69180,data/1ce69180/src/t.txt,2:2,F,F,,,F,F,,,,,0.00,,F,F,F,

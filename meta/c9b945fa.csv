@@ -181,3 +181,14 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 108030,f6f5ef7e,GitHub,c9b945fa,data/c9b945fa/src/k.py,93:93,T,F,18,29,F,F,Any,,,Auth,2.66,11,F,F,F,Authentication Key & Token
 108031,f6f5ef7e,GitHub,c9b945fa,data/c9b945fa/src/k.py,311:311,T,F,18,29,F,F,Any,,,Auth,2.37,11,F,F,F,Authentication Key & Token
 108032,f6f5ef7e,GitHub,c9b945fa,data/c9b945fa/src/k.py,341:341,T,F,18,29,F,F,Any,,,Auth,3.28,11,F,F,F,Authentication Key & Token
+114323,64e62af6,GitHub,c9b945fa,data/c9b945fa/src/i.rst,54:54,F,F,,,F,F,,,,,0.00,,F,F,F,
+114324,64e62af6,GitHub,c9b945fa,data/c9b945fa/src/i.rst,117:117,F,F,,,F,F,,,,,0.00,,F,F,F,
+114325,64e62af6,GitHub,c9b945fa,data/c9b945fa/src/i.rst,193:193,F,F,,,F,F,,,,,0.00,,F,F,F,
+114326,cb378009,GitHub,c9b945fa,data/c9b945fa/test/n.py,235:235,F,F,,,F,F,,,,,0.00,,F,F,F,
+114327,2a0e7bcd,GitHub,c9b945fa,data/c9b945fa/test/p.py,45:45,F,F,,,F,F,,,,,0.00,,F,F,F,
+114328,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/o.py,246:246,F,F,,,F,F,,,,,0.00,,F,F,F,
+114329,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/o.py,263:263,F,F,,,F,F,,,,,0.00,,F,F,F,
+114330,eee38f11,GitHub,c9b945fa,data/c9b945fa/test/q.py,452:452,F,F,,,F,F,,,,,0.00,,F,F,F,
+114331,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/o.py,123:123,Template,F,56,59,F,F,CharOnly,,,Auth,0.92,3,F,F,F,Authentication Key & Token
+114332,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/o.py,286:286,Template,F,56,59,F,F,CharOnly,,,Auth,0.92,3,F,F,F,Authentication Key & Token
+114333,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/o.py,314:314,Template,F,56,59,F,F,CharOnly,,,Auth,0.92,3,F,F,F,Authentication Key & Token

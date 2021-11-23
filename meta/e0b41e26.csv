@@ -154,3 +154,12 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 107284,1efcc29b,GitHub,e0b41e26,data/e0b41e26/src/h.js,150:150,Template,T,52,60,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 107285,1efcc29b,GitHub,e0b41e26,data/e0b41e26/src/h.js,177:177,Template,T,32,40,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 107286,1efcc29b,GitHub,e0b41e26,data/e0b41e26/src/h.js,278:278,Template,T,52,60,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+113949,3cb5b5a8,GitHub,e0b41e26,data/e0b41e26/src/l.js,58:58,F,F,,,F,F,,,,,0.00,,F,F,F,
+113950,3cb5b5a8,GitHub,e0b41e26,data/e0b41e26/src/l.js,69:69,F,F,,,F,F,,,,,0.00,,F,F,F,
+113951,3cb5b5a8,GitHub,e0b41e26,data/e0b41e26/src/l.js,134:134,F,F,,,F,F,,,,,0.00,,F,F,F,
+113952,3cb5b5a8,GitHub,e0b41e26,data/e0b41e26/src/l.js,145:145,F,F,,,F,F,,,,,0.00,,F,F,F,
+113953,508b8489,GitHub,e0b41e26,data/e0b41e26/test/bd.js,1318:1318,F,F,,,F,F,,,,,0.00,,F,F,F,
+113954,c386ab3a,GitHub,e0b41e26,data/e0b41e26/test/ba.js,109:109,F,F,,,F,F,,,,,0.00,,F,F,F,
+113955,c386ab3a,GitHub,e0b41e26,data/e0b41e26/test/ba.js,120:120,F,F,,,F,F,,,,,0.00,,F,F,F,
+113956,c386ab3a,GitHub,e0b41e26,data/e0b41e26/test/ba.js,196:196,F,F,,,F,F,,,,,0.00,,F,F,F,
+113957,c386ab3a,GitHub,e0b41e26,data/e0b41e26/test/ba.js,207:207,F,F,,,F,F,,,,,0.00,,F,F,F,

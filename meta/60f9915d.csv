@@ -260,3 +260,13 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 100788,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,174:174,F,F,,,F,F,,,,,0.00,,F,F,F,
 100789,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,175:175,F,F,,,F,F,,,,,0.00,,F,F,F,
 100790,af349d95,GitHub,60f9915d,data/60f9915d/test/w.go,90:90,Template,T,10,16,F,F,CharOnly,,,Secret,2.25,6,F,F,F,Password
+110372,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,241:241,F,F,,,F,F,,,,,0.00,,F,F,F,
+110373,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,242:242,F,F,,,F,F,,,,,0.00,,F,F,F,
+110374,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,318:318,F,F,,,F,F,,,,,0.00,,F,F,F,
+110375,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,319:319,F,F,,,F,F,,,,,0.00,,F,F,F,
+110376,9870bda5,GitHub,60f9915d,data/60f9915d/src/t.sum,112:112,F,F,,,F,F,,,,,0.00,,F,F,F,
+110377,492ba9f5,GitHub,60f9915d,data/60f9915d/test/bi.go,1630:1630,F,F,,,F,F,,,,,0.00,,F,F,F,
+110378,492ba9f5,GitHub,60f9915d,data/60f9915d/test/bi.go,3296:3296,F,F,,,F,F,,,,,0.00,,F,F,F,
+110379,492ba9f5,GitHub,60f9915d,data/60f9915d/test/bi.go,3301:3301,F,F,,,F,F,,,,,0.00,,F,F,F,
+110380,492ba9f5,GitHub,60f9915d,data/60f9915d/test/bi.go,3626:3626,F,F,,,F,F,,,,,0.00,,F,F,F,
+110381,492ba9f5,GitHub,60f9915d,data/60f9915d/test/bi.go,3636:3636,F,F,,,F,F,,,,,0.00,,F,F,F,

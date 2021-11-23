@@ -29,3 +29,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 56600,b6630af9,GitHub,8035fc42,data/8035fc42/src/i.cljc,51:51,F,F,,,F,F,,,,,0,0,F,F,F,
 57310,08b39d2a,GitHub,8035fc42,data/8035fc42/test/n.cljc,119:119,F,F,,,F,F,,,,,0,0,F,F,F,
 57312,ab382898,GitHub,8035fc42,data/8035fc42/src/j.cljc,767:767,F,F,,,F,F,,,,,0,0,F,F,F,
+110096,ab382898,GitHub,8035fc42,data/8035fc42/src/j.cljc,780:780,F,F,,,F,F,,,,,0.00,,F,F,F,

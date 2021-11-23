@@ -73,3 +73,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 101480,9e34fc6d,GitHub,08295bf0,data/08295bf0/src/e.scala,12:12,F,F,,,F,F,,,,,0.00,,F,F,F,
 101481,c551ce34,GitHub,08295bf0,data/08295bf0/src/g.scala,47:47,F,F,,,F,F,,,,,0.00,,F,F,F,
 101482,c551ce34,GitHub,08295bf0,data/08295bf0/src/g.scala,108:108,F,F,,,F,F,,,,,0.00,,F,F,F,
+110672,e45e45ba,GitHub,08295bf0,data/08295bf0/src/a.yml,34:34,F,F,,,F,F,,,,,0.00,,F,F,F,
+110673,e45e45ba,GitHub,08295bf0,data/08295bf0/src/a.yml,35:35,F,F,,,F,F,,,,,0.00,,F,F,F,

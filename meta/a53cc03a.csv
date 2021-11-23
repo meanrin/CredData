@@ -142,3 +142,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 108339,257b71bf,GitHub,a53cc03a,data/a53cc03a/test/bi.py,29:29,F,F,,,F,F,,,,,0.00,,F,F,F,
 108340,5a5f78fe,GitHub,a53cc03a,data/a53cc03a/test/f.py,22:22,Template,T,52,60,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 108341,5a5f78fe,GitHub,a53cc03a,data/a53cc03a/test/f.py,79:79,F,F,,,F,F,,,,,0.00,,F,F,F,
+114518,3a983a64,GitHub,a53cc03a,data/a53cc03a/test/h.py,32:32,F,F,,,F,F,,,,,0.00,,F,F,F,
+114519,9cf073c4,GitHub,a53cc03a,data/a53cc03a/test/w.template,9:9,F,F,,,F,F,,,,,0.00,,F,F,F,

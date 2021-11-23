@@ -95,3 +95,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82621,26058707,GitHub,1e007c58,data/1e007c58/test/o.go,21:21,Template,T,17,30,F,F,CharsOnly,,,Secret,3.03,13,F,F,F,Password
 101439,353aa75d,GitHub,1e007c58,data/1e007c58/src/l.go,39:39,F,F,,,F,F,,,,,0.00,,F,F,F,
 101440,2c9566ed,GitHub,1e007c58,data/1e007c58/src/t.go,23:23,Template,T,24,44,F,F,Any,,,Secret,2.77,20,F,F,F,Password
+110648,c79b11f4,GitHub,1e007c58,data/1e007c58/src/k.go,195:195,F,F,,,F,F,,,,,0.00,,F,F,F,
+110649,c79b11f4,GitHub,1e007c58,data/1e007c58/src/k.go,199:199,F,F,,,F,F,,,,,0.00,,F,F,F,
+110650,c79b11f4,GitHub,1e007c58,data/1e007c58/src/k.go,203:203,F,F,,,F,F,,,,,0.00,,F,F,F,
+110651,c79b11f4,GitHub,1e007c58,data/1e007c58/src/k.go,222:222,F,F,,,F,F,,,,,0.00,,F,F,F,

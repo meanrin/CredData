@@ -140,3 +140,22 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 75334,c0986e3e,GitHub,f80c571b,data/f80c571b/test/z.py,1443:1443,F,F,,,F,F,,,,,0,0,F,F,F,
 75335,94fb4ab5,GitHub,f80c571b,data/f80c571b/src/o.py,1721:1721,F,F,,,F,F,,,,,0,0,F,F,F,
 82624,ddca7170,GitHub,f80c571b,data/f80c571b/test/bc.py,2189:2189,F,F,0,46,F,F,,,,,0,0,F,F,F,
+110153,bcbcac75,GitHub,f80c571b,data/f80c571b/src/m.py,420:420,F,F,,,F,F,,,,,0.00,,F,F,F,
+110154,bcbcac75,GitHub,f80c571b,data/f80c571b/src/m.py,421:421,F,F,,,F,F,,,,,0.00,,F,F,F,
+110155,bcbcac75,GitHub,f80c571b,data/f80c571b/src/m.py,717:717,F,F,,,F,F,,,,,0.00,,F,F,F,
+110156,a8eb52dc,GitHub,f80c571b,data/f80c571b/src/c.rst,676:676,F,F,,,F,F,,,,,0.00,,F,F,F,
+110157,e98e46fc,GitHub,f80c571b,data/f80c571b/src/i.rst,360:360,F,F,,,F,F,,,,,0.00,,F,F,F,
+110158,e98e46fc,GitHub,f80c571b,data/f80c571b/src/i.rst,379:379,F,F,,,F,F,,,,,0.00,,F,F,F,
+110159,e98e46fc,GitHub,f80c571b,data/f80c571b/src/i.rst,393:393,F,F,,,F,F,,,,,0.00,,F,F,F,
+110160,68a31565,GitHub,f80c571b,data/f80c571b/src/f.rst,94:94,F,F,,,F,F,,,,,0.00,,F,F,F,
+110161,68a31565,GitHub,f80c571b,data/f80c571b/src/f.rst,104:104,F,F,,,F,F,,,,,0.00,,F,F,F,
+110162,1290e493,GitHub,f80c571b,data/f80c571b/test/bb.py,439:439,F,F,,,F,F,,,,,0.00,,F,F,F,
+110163,1290e493,GitHub,f80c571b,data/f80c571b/test/bb.py,761:761,F,F,,,F,F,,,,,0.00,,F,F,F,
+110164,1290e493,GitHub,f80c571b,data/f80c571b/test/bb.py,771:771,F,F,,,F,F,,,,,0.00,,F,F,F,
+110165,1290e493,GitHub,f80c571b,data/f80c571b/test/bb.py,805:805,F,F,,,F,F,,,,,0.00,,F,F,F,
+110166,1290e493,GitHub,f80c571b,data/f80c571b/test/bb.py,815:815,F,F,,,F,F,,,,,0.00,,F,F,F,
+110167,fb70e4c2,GitHub,f80c571b,data/f80c571b/test/w.py,58:58,Template,T,23,31,F,F,CharOnly,,,Auth,2.75,8,F,F,F,Authentication Key & Token
+110168,fb70e4c2,GitHub,f80c571b,data/f80c571b/test/w.py,93:93,Template,T,23,31,F,F,CharOnly,,,Auth,2.75,8,F,F,F,Authentication Key & Token
+110169,fb70e4c2,GitHub,f80c571b,data/f80c571b/test/w.py,135:135,Template,T,23,31,F,F,CharOnly,,,Auth,2.75,8,F,F,F,Authentication Key & Token
+110170,fb70e4c2,GitHub,f80c571b,data/f80c571b/test/w.py,169:169,Template,T,23,31,F,F,CharOnly,,,Auth,2.75,8,F,F,F,Authentication Key & Token
+110171,fb70e4c2,GitHub,f80c571b,data/f80c571b/test/w.py,247:247,Template,T,23,31,F,F,CharOnly,,,Auth,2.75,8,F,F,F,Authentication Key & Token

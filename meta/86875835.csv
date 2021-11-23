@@ -25,3 +25,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74801,ec685f40,GitHub,86875835,data/86875835/src/i.ts,44:44,F,F,,,F,F,,,,,0,0,F,F,F,
 76520,232f25ff,GitHub,86875835,data/86875835/src/b.ts,46:46,F,F,,,F,F,,,,,0,0,F,F,F,
 76646,ec685f40,GitHub,86875835,data/86875835/src/i.ts,42:42,F,F,,,F,F,,,,,0,0,F,F,F,
+110026,485821fb,GitHub,86875835,data/86875835/src/c.ts,37:37,F,F,,,F,F,,,,,0.00,,F,F,F,

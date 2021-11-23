@@ -76,3 +76,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 107478,61ed9af5,GitHub,02dfa7ec,data/02dfa7ec/test/n.example,48:48,Template,T,13,21,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 107479,a758153b,GitHub,02dfa7ec,data/02dfa7ec/test/o.example,31:31,Template,T,14,22,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 107480,a758153b,GitHub,02dfa7ec,data/02dfa7ec/test/o.example,76:76,Template,T,13,21,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+114004,83cb6a7b,GitHub,02dfa7ec,data/02dfa7ec/src/j.js,2493:2493,F,F,,,F,F,,,,,0.00,,F,F,F,
+114005,3279f9a1,GitHub,02dfa7ec,data/02dfa7ec/src/f.py,153:153,F,F,,,F,F,,,,,0.00,,F,F,F,
+114006,61ed9af5,GitHub,02dfa7ec,data/02dfa7ec/test/n.example,73:73,F,F,,,F,F,,,,,0.00,,F,F,F,
+114007,61ed9af5,GitHub,02dfa7ec,data/02dfa7ec/test/n.example,75:75,F,F,,,F,F,,,,,0.00,,F,F,F,

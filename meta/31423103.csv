@@ -87,3 +87,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 108076,782628b4,GitHub,31423103,data/31423103/src/g.js,81:81,F,F,,,F,F,,,,,0.00,,F,F,F,
 108077,a3046da0,GitHub,31423103,data/31423103/test/a.example,11:11,F,F,,,F,F,,,,,0.00,,F,F,F,
 108078,a3046da0,GitHub,31423103,data/31423103/test/a.example,18:18,T,F,14,49,F,F,Any,,,Secret,4.03,35,F,F,F,Generic Secret
+114347,fa60852f,GitHub,31423103,data/31423103/src/e.js,14:14,F,F,,,F,F,,,,,0.00,,F,F,F,
+114348,fa60852f,GitHub,31423103,data/31423103/src/e.js,15:15,F,F,,,F,F,,,,,0.00,,F,F,F,

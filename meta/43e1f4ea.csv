@@ -77,3 +77,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 80856,eeee420b,GitHub,43e1f4ea,data/43e1f4ea/test/g,30:30,Template,F,14,20,F,F,,,,,0,0,F,F,F,
 100626,fae73aef,GitHub,43e1f4ea,data/43e1f4ea/test/bq.java,36:36,Template,T,22,27,F,F,CharOnly,,,Secret,2.32,5,F,F,F,Password
 100627,fae73aef,GitHub,43e1f4ea,data/43e1f4ea/test/bq.java,37:37,Template,T,28,41,F,F,Any,,,Secret,3.11,13,F,F,F,Password
+110193,8661f4ba,GitHub,43e1f4ea,data/43e1f4ea/src/b.gradle,183:183,F,F,,,F,F,,,,,0.00,,F,F,F,
+110194,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,164:164,F,F,,,F,F,,,,,0.00,,F,F,F,
+110195,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,172:172,F,F,,,F,F,,,,,0.00,,F,F,F,
+110196,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,300:300,F,F,,,F,F,,,,,0.00,,F,F,F,

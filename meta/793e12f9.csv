@@ -31,3 +31,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 55572,ff081bd4,GitHub,793e12f9,data/793e12f9/src/c.rb,270:270,F,F,,,F,F,,,,,0,0,F,F,F,
 55574,ff081bd4,GitHub,793e12f9,data/793e12f9/src/c.rb,456:456,Template,F,44,47,T,F,CharsOnly,,,Token,1.58,3,F,F,F,Generic Token
 100168,89740fcf,GitHub,793e12f9,data/793e12f9/src/k.rb,8:8,F,F,,,F,F,,,,,0.00,,F,F,F,
+110012,e68066cf,GitHub,793e12f9,data/793e12f9/other/g,23:23,F,F,,,F,F,,,,,0.00,,F,F,F,
+110013,e68066cf,GitHub,793e12f9,data/793e12f9/other/g,24:24,F,F,,,F,F,,,,,0.00,,F,F,F,

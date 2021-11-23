@@ -62,3 +62,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76450,ed73bc37,GitHub,72001588,data/72001588/src/bg.yml,2:2,F,F,,,F,F,,,,,0,0,F,F,F,
 83252,85fc2629,GitHub,72001588,data/72001588/src/s.yaml,19:19,F,F,12,34,F,F,,,,,0,0,F,F,F,
 83253,12925cc4,GitHub,72001588,data/72001588/src/t.yaml,2:2,F,F,12,34,F,F,,,,,0,0,F,F,F,
+110909,eb486ff5,GitHub,72001588,data/72001588/src/d.py,12:12,F,F,,,F,F,,,,,0.00,,F,F,F,
+110910,0ed4f2dd,GitHub,72001588,data/72001588/src/f.py,12:12,F,F,,,F,F,,,,,0.00,,F,F,F,
+110911,4a6e201d,GitHub,72001588,data/72001588/src/b.py,12:12,F,F,,,F,F,,,,,0.00,,F,F,F,

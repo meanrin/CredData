@@ -157,3 +157,15 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 101104,df2df337,GitHub,848ad017,data/848ad017/src/p.yml,41:41,Template,T,10,18,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 101105,df2df337,GitHub,848ad017,data/848ad017/src/p.yml,79:79,Template,T,12,20,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
 101106,df2df337,GitHub,848ad017,data/848ad017/src/p.yml,87:87,Template,T,12,20,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+110527,5f2dd11c,GitHub,848ad017,data/848ad017/src/i.yml,1098:1098,F,F,,,F,F,,,,,0.00,,F,F,F,
+110528,5f2dd11c,GitHub,848ad017,data/848ad017/src/i.yml,817:817,F,F,,,F,F,,,,,0.00,,F,F,F,
+110529,df2df337,GitHub,848ad017,data/848ad017/src/p.yml,99:99,F,F,,,F,F,,,,,0.00,,F,F,F,
+110530,df2df337,GitHub,848ad017,data/848ad017/src/p.yml,170:170,F,F,,,F,F,,,,,0.00,,F,F,F,
+110531,e7010a6a,GitHub,848ad017,data/848ad017/other/r.md,156:156,F,F,,,F,F,,,,,0.00,,F,F,F,
+110532,e7010a6a,GitHub,848ad017,data/848ad017/other/r.md,28:28,F,F,,,F,F,,,,,0.00,,F,F,F,
+110533,e7010a6a,GitHub,848ad017,data/848ad017/other/r.md,56:56,F,F,,,F,F,,,,,0.00,,F,F,F,
+110534,e7010a6a,GitHub,848ad017,data/848ad017/other/r.md,203:203,F,F,,,F,F,,,,,0.00,,F,F,F,
+110535,6c1c4644,GitHub,848ad017,data/848ad017/other/o.md,237:237,F,F,,,F,F,,,,,0.00,,F,F,F,
+110536,6c1c4644,GitHub,848ad017,data/848ad017/other/o.md,261:261,F,F,,,F,F,,,,,0.00,,F,F,F,
+110537,6c1c4644,GitHub,848ad017,data/848ad017/other/o.md,358:358,F,F,,,F,F,,,,,0.00,,F,F,F,
+110538,6c1c4644,GitHub,848ad017,data/848ad017/other/o.md,372:372,F,F,,,F,F,,,,,0.00,,F,F,F,

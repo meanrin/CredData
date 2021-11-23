@@ -265,3 +265,17 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 100545,35658be4,GitHub,fdbe07ac,data/fdbe07ac/test/l.go,49:49,T,F,11,27,F,F,Any,,,Secret,3.02,16,F,F,F,Password
 100546,35658be4,GitHub,fdbe07ac,data/fdbe07ac/test/l.go,51:51,T,F,26,42,F,F,Any,,,Secret,3.50,16,F,F,F,Password
 100547,d8a593d1,GitHub,fdbe07ac,data/fdbe07ac/test/m.go,1975:1975,F,F,,,F,F,,,,,0.00,,F,F,F,
+110132,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,132:132,F,F,,,F,F,,,,,0.00,,F,F,F,
+110133,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,31:31,F,F,,,F,F,,,,,0.00,,F,F,F,
+110134,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,39:39,F,F,,,F,F,,,,,0.00,,F,F,F,
+110135,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,40:40,F,F,,,F,F,,,,,0.00,,F,F,F,
+110136,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,42:42,F,F,,,F,F,,,,,0.00,,F,F,F,
+110137,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,97:97,F,F,,,F,F,,,,,0.00,,F,F,F,
+110138,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,99:99,F,F,,,F,F,,,,,0.00,,F,F,F,
+110139,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,103:103,F,F,,,F,F,,,,,0.00,,F,F,F,
+110140,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,208:208,F,F,,,F,F,,,,,0.00,,F,F,F,
+110141,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,213:213,F,F,,,F,F,,,,,0.00,,F,F,F,
+110142,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,227:227,F,F,,,F,F,,,,,0.00,,F,F,F,
+110143,f15d80cd,GitHub,fdbe07ac,data/fdbe07ac/src/w.go,228:228,F,F,,,F,F,,,,,0.00,,F,F,F,
+110144,0b251a68,GitHub,fdbe07ac,data/fdbe07ac/other/k.md,402:402,F,F,,,F,F,,,,,0.00,,F,F,F,
+110145,0b251a68,GitHub,fdbe07ac,data/fdbe07ac/other/k.md,412:412,F,F,,,F,F,,,,,0.00,,F,F,F,
