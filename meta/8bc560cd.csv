@@ -17,11 +17,11 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 37494,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,37:37,F,F,65,81,F,F,Any,,,Secret,3.38,16,F,F,F,Password
 42061,9e8b926c,GitHub,8bc560cd,data/8bc560cd/src/g.rb,134:134,F,F,,,F,F,,,,,0,0,F,F,F,
 42062,9e8b926c,GitHub,8bc560cd,data/8bc560cd/src/g.rb,155:155,F,F,,,F,F,,,,,0,0,F,F,F,
-,c2214302,GitHub,8bc560cd,data/8bc560cd/src/e.rb,57:57,F,,,,,,,,,,,,,,,
-,c2214302,GitHub,8bc560cd,data/8bc560cd/src/e.rb,59:59,F,,,,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,13:13,Template,,73,104,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,19:19,Template,,70,103,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,25:25,Template,,85,126,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,55:55,Template,,65,92,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,73:73,Template,,85,126,,,,,,,,,,,,
-,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,85:85,Template,,80,119,,,,,,,,,,,,
+107265,c2214302,GitHub,8bc560cd,data/8bc560cd/src/e.rb,57:57,F,F,,,F,F,,,,,0.00,,F,F,F,
+107266,c2214302,GitHub,8bc560cd,data/8bc560cd/src/e.rb,59:59,F,F,,,F,F,,,,,0.00,,F,F,F,
+107267,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,13:13,Template,T,73,104,F,F,Any,,,Secret,4.28,31,F,F,F,Generic Secret
+107268,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,19:19,Template,T,70,103,F,F,Any,,,Secret,4.15,33,F,F,F,Generic Secret
+107269,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,25:25,Template,T,85,126,F,F,Any,,,Secret,4.41,41,F,F,T,Generic Secret
+107270,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,55:55,Template,T,65,92,F,F,Any,,,Secret,4.21,27,F,F,F,Generic Secret
+107271,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,73:73,Template,T,85,126,F,F,Any,,,Secret,4.41,41,F,F,T,Generic Secret
+107272,451af7c5,GitHub,8bc560cd,data/8bc560cd/src/f.rb,85:85,Template,T,80,119,F,F,Any,,,Secret,4.29,39,F,F,F,Generic Secret

@@ -25,7 +25,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 2839,51efbd88,GitHub,4dccc5be,data/4dccc5be/src/cl.rb,18:18,F,F,,,F,F,,,,,0,0,F,F,F,
 3817,08f6de44,GitHub,4dccc5be,data/4dccc5be/src/ba.rb,63:63,F,F,,,F,F,,,,,0,0,F,F,F,
 4002,4a465bfe,GitHub,4dccc5be,data/4dccc5be/src/p.rb,253:253,F,F,,,F,F,,,,,0,0,F,F,F,
-4021,4a465bfe,GitHub,4dccc5be,data/4dccc5be/src/p.rb,228:228,Template,F,,,F,F,,,,,0,0,F,F,F,
+4021,4a465bfe,GitHub,4dccc5be,data/4dccc5be/src/p.rb,228:228,Template,T,12,23,F,F,Any,,,Secret,2.96,11,F,F,F,Password
 4152,2a054fac,GitHub,4dccc5be,data/4dccc5be/src/n.rb,381:381,F,F,,,F,F,,,,,0,0,F,F,F,
 4243,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,121:121,F,F,,,F,F,,,,,0,0,F,F,F,
 4260,4a465bfe,GitHub,4dccc5be,data/4dccc5be/src/p.rb,246:246,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -200,7 +200,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 42623,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,356:356,F,F,,,F,F,,,,,0,0,F,F,F,
 42624,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,368:368,F,F,,,F,F,,,,,0,0,F,F,F,
 42625,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,376:376,F,F,,,F,F,,,,,0,0,F,F,F,
-42626,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,425:425,Template,F,,,F,F,,,,,0,0,F,F,F,
+42626,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,425:425,Template,T,25,36,F,F,Any,,,Secret,2.96,11,F,F,F,Password
 42709,08f6de44,GitHub,4dccc5be,data/4dccc5be/src/ba.rb,59:59,Template,T,21,29,F,F,Any,,,Token,2.62,8,F,F,F,Generic Token
 42710,08f6de44,GitHub,4dccc5be,data/4dccc5be/src/ba.rb,110:110,Template,T,21,29,F,F,Any,,,Token,2.62,8,F,F,F,Generic Token
 42711,08f6de44,GitHub,4dccc5be,data/4dccc5be/src/ba.rb,117:117,Template,T,20,29,F,F,Any,,,Token,2.47,9,F,F,F,Generic Token
@@ -218,7 +218,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 43147,0690f4f4,GitHub,4dccc5be,data/4dccc5be/src/cq.rb,85:117,T,T,,,F,F,Any,Private,,Unknown,2.58,41,F,F,F,Private Key
 43157,0690f4f4,GitHub,4dccc5be,data/4dccc5be/src/cq.rb,143:175,T,T,,,F,F,Any,Private,,Unknown,2.58,41,F,F,F,Private Key
 43158,0690f4f4,GitHub,4dccc5be,data/4dccc5be/src/cq.rb,201:233,T,T,,,F,F,Any,Private,,Unknown,2.58,41,F,F,F,Private Key
-52096,6e4c7e42,GitHub,4dccc5be,data/4dccc5be/src/o.rb,280:280,Template,F,,,F,F,,,,,0,0,F,F,F,
+52096,6e4c7e42,GitHub,4dccc5be,data/4dccc5be/src/o.rb,280:280,Template,T,34,45,F,F,Any,,,Secret,2.96,11,F,F,F,Password
 63071,b765542b,GitHub,4dccc5be,data/4dccc5be/src/be.rb,157:157,F,F,,,F,F,,,,,0,0,F,F,F,
 63072,a80f94f5,GitHub,4dccc5be,data/4dccc5be/src/cp.template,21:21,Template,T,9,19,F,F,Any,,,Key,2.13,10,F,F,F,Other
 63073,a80f94f5,GitHub,4dccc5be,data/4dccc5be/src/cp.template,41:41,Template,T,9,19,F,F,Any,,,Key,2.13,10,F,F,F,Other
@@ -277,10 +277,10 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82161,6e4c7e42,GitHub,4dccc5be,data/4dccc5be/src/o.rb,265:265,Template,T,15,26,F,F,Any,,,Secret,2.96,11,F,F,F,Password
 82162,4a465bfe,GitHub,4dccc5be,data/4dccc5be/src/p.rb,221:221,Template,T,15,26,F,F,Any,,,Secret,2.96,11,F,F,F,Password
 82163,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,426:426,F,F,30,49,F,F,,,,,0,0,F,F,F,
-,38e29da2,GitHub,4dccc5be,data/4dccc5be/src/g.rb,46:46,F,,,,,,,,,,,,,,,
-,7ca129de,GitHub,4dccc5be,data/4dccc5be/src/i.rb,11:11,F,,,,,,,,,,,,,,,
-,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,352:352,F,,,,,,,,,,,,,,,
-,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,28:28,F,,,,,,,,,,,,,,,
-,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,62:62,F,,,,,,,,,,,,,,,
-,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,108:108,F,,,,,,,,,,,,,,,
-,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,115:115,F,,,,,,,,,,,,,,,
+100850,38e29da2,GitHub,4dccc5be,data/4dccc5be/src/g.rb,46:46,F,F,,,F,F,,,,,0.00,,F,F,F,
+100851,7ca129de,GitHub,4dccc5be,data/4dccc5be/src/i.rb,11:11,F,F,,,F,F,,,,,0.00,,F,F,F,
+100852,a76c5e7f,GitHub,4dccc5be,data/4dccc5be/src/bo.rb,352:352,F,F,,,F,F,,,,,0.00,,F,F,F,
+100853,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,28:28,F,F,,,F,F,,,,,0.00,,F,F,F,
+100854,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,62:62,F,F,,,F,F,,,,,0.00,,F,F,F,
+100855,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,108:108,F,F,,,F,F,,,,,0.00,,F,F,F,
+100856,438f1f52,GitHub,4dccc5be,data/4dccc5be/src/s.rb,115:115,F,F,,,F,F,,,,,0.00,,F,F,F,

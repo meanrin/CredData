@@ -80,5 +80,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76298,eec7b198,GitHub,c51ddd1e,data/c51ddd1e/src/f.js,144:144,F,F,,,F,F,,,,,0,0,F,F,F,
 76299,eec7b198,GitHub,c51ddd1e,data/c51ddd1e/src/f.js,220:220,F,F,,,F,F,,,,,0,0,F,F,F,
 76300,eec7b198,GitHub,c51ddd1e,data/c51ddd1e/src/f.js,280:280,F,F,,,F,F,,,,,0,0,F,F,F,
-,ce83bc9a,GitHub,c51ddd1e,data/c51ddd1e/other/c.md,206:206,F,,,,,,,,,,,,,,,
-,2e2b0cef,GitHub,c51ddd1e,data/c51ddd1e/other/d.md,77:77,F,,,,,,,,,,,,,,,
+108700,ce83bc9a,GitHub,c51ddd1e,data/c51ddd1e/other/c.md,206:206,F,F,,,F,F,,,,,0.00,,F,F,F,
+108701,2e2b0cef,GitHub,c51ddd1e,data/c51ddd1e/other/d.md,77:77,F,F,,,F,F,,,,,0.00,,F,F,F,

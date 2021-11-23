@@ -50,8 +50,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 15445,9d4414d3,GitHub,8c3c80e8,data/8c3c80e8/src/m.js,465:465,F,F,,,F,F,,,,,0,0,F,F,F,
 15447,9d4414d3,GitHub,8c3c80e8,data/8c3c80e8/src/m.js,655:655,F,F,,,F,F,,,,,0,0,F,F,F,
 15815,9cf04db7,GitHub,8c3c80e8,data/8c3c80e8/src/g.js,913:913,F,F,,,F,F,,,,,0,0,F,F,F,
-17280,6b688a3f,GitHub,8c3c80e8,data/8c3c80e8/src/b.lua,136:136,Template,F,,,F,F,,,,,0,0,F,F,F,
-17285,6b688a3f,GitHub,8c3c80e8,data/8c3c80e8/src/b.lua,135:135,Template,F,,,F,F,,,,,0,0,F,F,F,
+17280,6b688a3f,GitHub,8c3c80e8,data/8c3c80e8/src/b.lua,136:136,Template,T,89,95,F,F,CharOnly,,,Secret,2.25,6,F,F,F,Password
+17285,6b688a3f,GitHub,8c3c80e8,data/8c3c80e8/src/b.lua,135:135,Template,T,84,90,F,F,CharOnly,,,Secret,2.25,6,F,F,F,Password
 17346,3e36a6cb,GitHub,8c3c80e8,data/8c3c80e8/src/c.css,221:221,F,F,,,F,F,,,,,0,0,F,F,F,
 18886,6ac3f79f,GitHub,8c3c80e8,data/8c3c80e8/src/a.yml,6:6,F,F,,,F,F,,,,,0,0,F,F,F,
 34362,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,746:746,T,T,11,23,F,F,CharsOnly,,,Secret,3.08,12,F,F,F,Password
@@ -72,7 +72,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82679,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,869:869,F,F,0,87,F,F,,,,,0,0,F,F,F,
 82680,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,934:934,F,F,9,49,F,F,,,,,0,0,F,F,F,
 82681,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,951:951,F,F,0,87,F,F,,,,,0,0,F,F,F,
-,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,684:684,F,,,,,,,,,,,,,,,
-,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,764:764,F,,,,,,,,,,,,,,,
-,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,868:868,F,,,,,,,,,,,,,,,
-,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,950:950,F,,,,,,,,,,,,,,,
+107847,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,684:684,F,F,,,F,F,,,,,0.00,,F,F,F,
+107848,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,764:764,F,F,,,F,F,,,,,0.00,,F,F,F,
+107849,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,868:868,F,F,,,F,F,,,,,0.00,,F,F,F,
+107850,30a13d20,GitHub,8c3c80e8,data/8c3c80e8/test/n.js,950:950,F,F,,,F,F,,,,,0.00,,F,F,F,

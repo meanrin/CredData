@@ -61,5 +61,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76582,abb8cb7f,GitHub,4bd9eea8,data/4bd9eea8/test/p.yml,54:54,F,F,,,F,F,,,,,0,0,F,F,F,
 76605,abb8cb7f,GitHub,4bd9eea8,data/4bd9eea8/test/p.yml,7:7,F,F,,,F,F,,,,,0,0,F,F,F,
 83184,78811ec1,GitHub,4bd9eea8,data/4bd9eea8/src/g.java,69:69,F,F,27,34,F,F,,,,,0,0,F,F,F,
-,ee104a92,GitHub,4bd9eea8,data/4bd9eea8/src/w.vue,91:91,F,,,,,,,,,,,,,,,
-,ee104a92,GitHub,4bd9eea8,data/4bd9eea8/src/w.vue,94:94,F,,,,,,,,,,,,,,,
+107674,ee104a92,GitHub,4bd9eea8,data/4bd9eea8/src/w.vue,91:91,F,F,,,F,F,,,,,0.00,,F,F,F,
+107675,ee104a92,GitHub,4bd9eea8,data/4bd9eea8/src/w.vue,94:94,F,F,,,F,F,,,,,0.00,,F,F,F,

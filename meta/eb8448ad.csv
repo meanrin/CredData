@@ -36,6 +36,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 42429,1b2cd3a7,GitHub,eb8448ad,data/eb8448ad/src/c.lock,4065:4065,F,F,,,F,F,,,,,0,0,F,F,F,
 42903,91b3c8bc,GitHub,eb8448ad,data/eb8448ad/src/k.yaml,54:54,Template,T,31,41,T,F,Any,,,Secret,2.46,10,F,F,F,Password
 83197,ae39a300,GitHub,eb8448ad,data/eb8448ad/src/i.yaml,10:10,F,F,12,19,F,F,,,,,0,0,F,F,F,
-,09c8c391,GitHub,eb8448ad,data/eb8448ad/other/a,23:23,Template,,11,21,,,,,,,,,,,,
-,91b3c8bc,GitHub,eb8448ad,data/eb8448ad/src/k.yaml,106:106,F,,,,,,,,,,,,,,,
-,6eb51d25,GitHub,eb8448ad,data/eb8448ad/src/m.sh,16:16,F,,,,,,,,,,,,,,,
+107671,09c8c391,GitHub,eb8448ad,data/eb8448ad/other/a,23:23,Template,T,11,21,F,F,Any,,,Secret,2.46,10,F,F,F,Password
+107672,91b3c8bc,GitHub,eb8448ad,data/eb8448ad/src/k.yaml,106:106,F,F,,,F,F,,,,,0.00,,F,F,F,
+107673,6eb51d25,GitHub,eb8448ad,data/eb8448ad/src/m.sh,16:16,F,F,,,F,F,,,,,0.00,,F,F,F,

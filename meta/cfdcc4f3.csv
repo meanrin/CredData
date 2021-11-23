@@ -24,7 +24,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 23094,15c2dbc7,GitHub,cfdcc4f3,data/cfdcc4f3/src/s.yml,19:19,F,F,,,F,F,,,,,0,0,F,F,F,
 23095,c805e326,GitHub,cfdcc4f3,data/cfdcc4f3/src/l.yml,38:38,F,F,,,F,F,,,,,0,0,F,F,F,
 23096,7e5c5a58,GitHub,cfdcc4f3,data/cfdcc4f3/src/k.yml,21:21,F,F,,,F,F,,,,,0,0,F,F,F,
-23311,dec4b5eb,GitHub,cfdcc4f3,data/cfdcc4f3/src/n.yml,32:32,Template,F,,,F,F,,,,,0,0,F,F,F,
+23311,dec4b5eb,GitHub,cfdcc4f3,data/cfdcc4f3/src/n.yml,32:32,Template,T,35,46,T,F,CharOnly,,,Secret,2.48,11,F,F,F,Other
 23362,c805e326,GitHub,cfdcc4f3,data/cfdcc4f3/src/l.yml,60:60,F,F,,,F,F,,,,,0,0,F,F,F,
 23383,7e5c5a58,GitHub,cfdcc4f3,data/cfdcc4f3/src/k.yml,49:49,F,F,,,F,F,,,,,0,0,F,F,F,
 24324,15c2dbc7,GitHub,cfdcc4f3,data/cfdcc4f3/src/s.yml,37:37,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -116,4 +116,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 54255,c7c88b7a,GitHub,cfdcc4f3,data/cfdcc4f3/src/g.json,2673:2673,F,F,,,F,F,,,,,0,0,F,F,F,
 54256,c7c88b7a,GitHub,cfdcc4f3,data/cfdcc4f3/src/g.json,2830:2830,F,F,,,F,F,,,,,0,0,F,F,F,
 54257,c7c88b7a,GitHub,cfdcc4f3,data/cfdcc4f3/src/g.json,2885:2885,F,F,,,F,F,,,,,0,0,F,F,F,
-,7cb26dcd,GitHub,cfdcc4f3,data/cfdcc4f3/src/i.yml,8:8,F,,,,,,,,,,,,,,,
+108508,7cb26dcd,GitHub,cfdcc4f3,data/cfdcc4f3/src/i.yml,8:8,F,F,,,F,F,,,,,0.00,,F,F,F,

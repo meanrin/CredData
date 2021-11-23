@@ -20,7 +20,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 13876,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,191:191,F,F,,,F,F,,,,,0,0,F,F,F,
 14017,5b30de49,GitHub,8b8452c2,data/8b8452c2/test/r.go,128:128,F,F,,,F,F,,,,,0,0,F,F,F,
 14737,5b30de49,GitHub,8b8452c2,data/8b8452c2/test/r.go,27:27,F,F,,,F,F,,,,,0,0,F,F,F,
-22952,544d72be,GitHub,8b8452c2,data/8b8452c2/test/o.go,24:24,Template,F,,,F,F,,,,,0,0,F,F,F,
+22952,544d72be,GitHub,8b8452c2,data/8b8452c2/test/o.go,24:24,Template,T,15,28,F,F,Any,,,Secret,2.74,13,F,F,F,Password
 22955,1c032240,GitHub,8b8452c2,data/8b8452c2/test/g.go,42:42,F,F,,,F,F,,,,,0,0,F,F,F,
 22957,0b2fc2f3,GitHub,8b8452c2,data/8b8452c2/test/e.go,42:42,F,F,,,F,F,,,,,0,0,F,F,F,
 23330,0e4d33ed,GitHub,8b8452c2,data/8b8452c2/test/h.go,41:41,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -40,8 +40,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 46184,1c032240,GitHub,8b8452c2,data/8b8452c2/test/g.go,100:100,F,F,,,F,F,,,,,0,0,F,F,F,
 46185,0b2fc2f3,GitHub,8b8452c2,data/8b8452c2/test/e.go,99:99,F,F,,,F,F,,,,,0,0,F,F,F,
 46191,0e4d33ed,GitHub,8b8452c2,data/8b8452c2/test/h.go,96:96,F,F,,,F,F,,,,,0,0,F,F,F,
-46271,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,162:162,Template,F,,,F,F,,,,,0,0,F,F,F,
-46272,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,21:21,Template,F,,,F,F,,,,,0,0,F,F,F,
+46271,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,162:162,Template,T,19,32,F,F,Any,,,Secret,2.32,13,F,F,F,Password
+46272,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,21:21,Template,T,19,33,F,F,Any,,,Secret,2.54,14,F,F,F,Password
 46273,5b30de49,GitHub,8b8452c2,data/8b8452c2/test/r.go,86:86,F,F,,,F,F,,,,,0,0,F,F,F,
 46318,0e4d33ed,GitHub,8b8452c2,data/8b8452c2/test/h.go,19:19,Template,T,19,48,F,F,Any,,,Unknown,3.45,29,F,F,F,Other
 46319,1c032240,GitHub,8b8452c2,data/8b8452c2/test/g.go,20:20,Template,T,19,48,F,F,Any,,,Unknown,3.45,29,F,F,F,Other
@@ -50,9 +50,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 75025,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,267:267,F,F,,,F,F,,,,,0,0,F,F,F,
 82179,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,163:163,Template,F,18,32,F,F,,,,,0,0,F,F,F,
 82180,578e7bda,GitHub,8b8452c2,data/8b8452c2/test/m.go,242:242,Template,F,18,32,F,F,,,,,0,0,F,F,F,
-,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,94:94,F,,,,,,,,,,,,,,,
-,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,96:96,F,,,,,,,,,,,,,,,
-,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,106:106,F,,,,,,,,,,,,,,,
-,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,114:114,F,,,,,,,,,,,,,,,
-,b05a4695,GitHub,8b8452c2,data/8b8452c2/test/f.sum,36:36,F,,,,,,,,,,,,,,,
-,b05a4695,GitHub,8b8452c2,data/8b8452c2/test/f.sum,37:37,F,,,,,,,,,,,,,,,
+102115,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,94:94,F,F,,,F,F,,,,,0.00,,F,F,F,
+102116,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,96:96,F,F,,,F,F,,,,,0.00,,F,F,F,
+102117,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,106:106,F,F,,,F,F,,,,,0.00,,F,F,F,
+102118,b3356305,GitHub,8b8452c2,data/8b8452c2/other/a.md,114:114,F,F,,,F,F,,,,,0.00,,F,F,F,
+102119,b05a4695,GitHub,8b8452c2,data/8b8452c2/test/f.sum,36:36,F,F,,,F,F,,,,,0.00,,F,F,F,
+102120,b05a4695,GitHub,8b8452c2,data/8b8452c2/test/f.sum,37:37,F,F,,,F,F,,,,,0.00,,F,F,F,

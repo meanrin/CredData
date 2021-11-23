@@ -7,7 +7,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 3485,aada8416,GitHub,d93c01fb,data/d93c01fb/test/g.sum,58:58,F,F,,,F,F,,,,,0,0,F,F,F,
 5779,265ac038,GitHub,d93c01fb,data/d93c01fb/test/l.bats,159:159,F,F,,,F,F,,,,,0,0,F,F,F,
 11015,b91864d9,GitHub,d93c01fb,data/d93c01fb/test/i.scala,61:61,F,F,,,F,F,,,,,0,0,F,F,F,
-11190,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,19:19,Template,F,,,F,F,,,,,0,0,F,F,F,
+11190,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,19:19,Template,T,19,45,F,F,Any,,,Secret,3.10,26,F,F,F,Password
 13241,37214c2b,GitHub,d93c01fb,data/d93c01fb/other/c.md,87:87,F,F,,,F,F,,,,,0,0,F,F,F,
 13748,265ac038,GitHub,d93c01fb,data/d93c01fb/test/l.bats,279:279,F,F,,,F,F,,,,,0,0,F,F,F,
 13749,265ac038,GitHub,d93c01fb,data/d93c01fb/test/l.bats,148:148,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -26,6 +26,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 75696,ec8653c8,GitHub,d93c01fb,data/d93c01fb/src/b.py,173:173,F,F,,,F,F,,,,,0,0,F,F,F,
 75703,ec8653c8,GitHub,d93c01fb,data/d93c01fb/src/b.py,175:175,F,F,,,F,F,,,,,0,0,F,F,F,
 76032,ec8653c8,GitHub,d93c01fb,data/d93c01fb/src/b.py,184:184,F,F,,,F,F,,,,,0,0,F,F,F,
-,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,17:17,F,,,,,,,,,,,,,,,
-,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,34:34,F,,,,,,,,,,,,,,,
-,fefdac88,GitHub,d93c01fb,data/d93c01fb/test/f.py,88:88,F,,,,,,,,,,,,,,,
+100188,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,17:17,F,F,,,F,F,,,,,0.00,,F,F,F,
+100189,e5fadea2,GitHub,d93c01fb,data/d93c01fb/test/e.js,34:34,F,F,,,F,F,,,,,0.00,,F,F,F,
+100190,fefdac88,GitHub,d93c01fb,data/d93c01fb/test/f.py,88:88,F,F,,,F,F,,,,,0.00,,F,F,F,

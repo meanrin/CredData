@@ -65,7 +65,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 36160,d9536f78,GitHub,e4d4b33d,data/e4d4b33d/test/q.js,6:6,T,T,12,22,F,F,CharsOnly,,,Secret,2.92,10,F,F,F,Password
 36161,e2f07db6,GitHub,e4d4b33d,data/e4d4b33d/test/r.js,6:6,T,T,12,22,F,F,CharsOnly,,,Secret,2.92,10,F,F,F,Password
 36162,9ce2e1cf,GitHub,e4d4b33d,data/e4d4b33d/test/y.js,5:5,T,F,12,17,F,F,CharsOnly,,,Secret,2.32,5,F,F,F,Password
-47966,f602bcce,GitHub,e4d4b33d,data/e4d4b33d/test/t.js,20:20,Template,F,,,F,F,,,,,0,0,F,F,F,
+47966,f602bcce,GitHub,e4d4b33d,data/e4d4b33d/test/t.js,20:20,Template,T,50,56,F,F,Any,,,Secret,1.82,6,F,F,F,Password
 48177,1550ec65,GitHub,e4d4b33d,data/e4d4b33d/other/c.md,397:397,Template,T,19,25,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
 48178,f602bcce,GitHub,e4d4b33d,data/e4d4b33d/test/t.js,7:7,Template,T,12,18,F,F,Any,,,Secret,1.82,6,F,F,F,Password
 48179,1550ec65,GitHub,e4d4b33d,data/e4d4b33d/other/c.md,171:171,Template,T,12,18,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
@@ -111,5 +111,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 78173,e559c851,GitHub,e4d4b33d,data/e4d4b33d/src/i.js,1381:1404,F,F,,,F,F,,,,,0,0,F,F,F,
 78174,e559c851,GitHub,e4d4b33d,data/e4d4b33d/src/i.js,1418:1441,F,F,,,F,F,,,,,0,0,F,F,F,
 78175,e559c851,GitHub,e4d4b33d,data/e4d4b33d/src/i.js,1455:1478,F,F,,,F,F,,,,,0,0,F,F,F,
-,b35c70f1,GitHub,e4d4b33d,data/e4d4b33d/src/g.js,41:41,F,,,,,,,,,,,,,,,
-,e32bc721,GitHub,e4d4b33d,data/e4d4b33d/test/bb.js,15:15,F,,,,,,,,,,,,,,,
+100682,b35c70f1,GitHub,e4d4b33d,data/e4d4b33d/src/g.js,41:41,F,F,,,F,F,,,,,0.00,,F,F,F,
+100683,e32bc721,GitHub,e4d4b33d,data/e4d4b33d/test/bb.js,15:15,F,F,,,F,F,,,,,0.00,,F,F,F,

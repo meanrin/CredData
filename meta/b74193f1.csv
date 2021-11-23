@@ -14,7 +14,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 18046,5e8dd78c,GitHub,b74193f1,data/b74193f1/test/ba.go,31:31,F,F,,,F,F,,,,,0,0,F,F,F,
 19299,3bf8c4e5,GitHub,b74193f1,data/b74193f1/test/bb.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
 19352,a883a761,GitHub,b74193f1,data/b74193f1/test/bc.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
-21285,78eb5784,GitHub,b74193f1,data/b74193f1/test/b.toml,88:88,Template,F,,,F,F,,,,,0,0,F,F,F,
+21285,78eb5784,GitHub,b74193f1,data/b74193f1/test/b.toml,88:88,Template,T,34,103,F,F,Any,,,Secret,3.71,69,F,F,F,Password
 21886,68de37cb,GitHub,b74193f1,data/b74193f1/test/j.json,4:4,F,F,,,F,F,,,,,0,0,F,F,F,
 21887,ccb06f2d,GitHub,b74193f1,data/b74193f1/test/r.json,4:4,F,F,,,F,F,,,,,0,0,F,F,F,
 21888,8bdbd9a0,GitHub,b74193f1,data/b74193f1/test/l.json,4:4,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -31,7 +31,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 21917,1ed107f5,GitHub,b74193f1,data/b74193f1/test/x.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
 21975,232245bd,GitHub,b74193f1,data/b74193f1/test/v.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
 22007,9302da1c,GitHub,b74193f1,data/b74193f1/test/w.json,3:3,F,F,,,F,F,,,,,0,0,F,F,F,
-22032,3bf8c4e5,GitHub,b74193f1,data/b74193f1/test/bb.json,2:2,T,F,,,F,F,,,,,0,0,F,F,F,
+22032,3bf8c4e5,GitHub,b74193f1,data/b74193f1/test/bb.json,2:2,T,F,11,33,F,F,Any,,,Secret,4.28,22,F,F,F,Generic Secret
 22076,ccb06f2d,GitHub,b74193f1,data/b74193f1/test/r.json,5:5,F,F,,,F,F,,,,,0,0,F,F,F,
 22077,cac1756d,GitHub,b74193f1,data/b74193f1/test/q.json,5:5,F,F,,,F,F,,,,,0,0,F,F,F,
 22078,bf30d189,GitHub,b74193f1,data/b74193f1/test/n.json,5:5,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -67,9 +67,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82653,d54544b0,GitHub,b74193f1,data/b74193f1/test/bf.go,62:62,F,F,24,87,F,F,,,,,0,0,F,F,F,
 82654,d54544b0,GitHub,b74193f1,data/b74193f1/test/bf.go,75:75,F,F,39,106,F,F,,,,,0,0,F,F,F,
 83068,3295df72,GitHub,b74193f1,data/b74193f1/src/c.sum,141:141,F,F,49,93,F,F,,,,,0,0,F,F,F,
-,b3356305,GitHub,b74193f1,data/b74193f1/other/a.md,212:212,F,,,,,,,,,,,,,,,
-,78eb5784,GitHub,b74193f1,data/b74193f1/test/b.toml,18:18,F,,,,,,,,,,,,,,,
-,d54544b0,GitHub,b74193f1,data/b74193f1/test/bf.go,104:104,F,,,,,,,,,,,,,,,
-,3295df72,GitHub,b74193f1,data/b74193f1/src/c.sum,225:225,F,,,,,,,,,,,,,,,
-,3295df72,GitHub,b74193f1,data/b74193f1/src/c.sum,226:226,F,,,,,,,,,,,,,,,
-,5d04a935,GitHub,b74193f1,data/b74193f1/test/i.go,64:64,T,,35,113,,,,,,,,,,,,
+101433,b3356305,GitHub,b74193f1,data/b74193f1/other/a.md,212:212,F,F,,,F,F,,,,,0.00,,F,F,F,
+101434,78eb5784,GitHub,b74193f1,data/b74193f1/test/b.toml,18:18,F,F,,,F,F,,,,,0.00,,F,F,F,
+101435,d54544b0,GitHub,b74193f1,data/b74193f1/test/bf.go,104:104,F,F,,,F,F,,,,,0.00,,F,F,F,
+101436,3295df72,GitHub,b74193f1,data/b74193f1/src/c.sum,225:225,F,F,,,F,F,,,,,0.00,,F,F,F,
+101437,3295df72,GitHub,b74193f1,data/b74193f1/src/c.sum,226:226,F,F,,,F,F,,,,,0.00,,F,F,F,
+101438,5d04a935,GitHub,b74193f1,data/b74193f1/test/i.go,64:64,T,F,35,113,F,F,Any,,,Secret,4.19,78,F,F,F,Generic Secret

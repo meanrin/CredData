@@ -56,7 +56,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 21347,3d2d9fe5,GitHub,bbb4193f,data/bbb4193f/src/u.yml,72:72,F,F,,,F,F,,,,,0,0,F,F,F,
 21358,3d2d9fe5,GitHub,bbb4193f,data/bbb4193f/src/u.yml,75:75,F,F,,,F,F,,,,,0,0,F,F,F,
 21380,3d2d9fe5,GitHub,bbb4193f,data/bbb4193f/src/u.yml,52:52,F,F,,,F,F,,,,,0,0,F,F,F,
-23080,b64fb722,GitHub,bbb4193f,data/bbb4193f/src/bb.sh,18:18,T,F,,,F,F,,,,,0,0,F,F,F,
+23080,b64fb722,GitHub,bbb4193f,data/bbb4193f/src/bb.sh,18:18,T,T,21,26,F,F,CharOnly,,,Secret,1.92,5,F,F,F,Password
 23082,b64fb722,GitHub,bbb4193f,data/bbb4193f/src/bb.sh,13:13,F,F,,,F,F,,,,,0,0,F,F,F,
 23083,b64fb722,GitHub,bbb4193f,data/bbb4193f/src/bb.sh,21:21,F,F,,,F,F,,,,,0,0,F,F,F,
 23113,b64fb722,GitHub,bbb4193f,data/bbb4193f/src/bb.sh,12:12,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -150,4 +150,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82664,0d462dc9,GitHub,bbb4193f,data/bbb4193f/src/g.vue,85:85,F,F,0,8,F,F,,,,,0,0,F,F,F,
 82665,0d462dc9,GitHub,bbb4193f,data/bbb4193f/src/g.vue,99:99,F,F,23,30,F,F,,,,,0,0,F,F,F,
 82666,0d462dc9,GitHub,bbb4193f,data/bbb4193f/src/g.vue,102:102,F,F,5,13,F,F,,,,,0,0,F,F,F,
-,fcf5316e,GitHub,bbb4193f,data/bbb4193f/src/z.java,51:51,F,,,,,,,,,,,,,,,
+108544,fcf5316e,GitHub,bbb4193f,data/bbb4193f/src/z.java,51:51,F,F,,,F,F,,,,,0.00,,F,F,F,

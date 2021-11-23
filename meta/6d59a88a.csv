@@ -15,7 +15,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 8574,94bfca2c,GitHub,6d59a88a,data/6d59a88a/src/b.py,413:413,F,F,,,F,F,,,,,0,0,F,F,F,
 8604,16228e63,GitHub,6d59a88a,data/6d59a88a/test/d.py,158:158,F,F,,,F,F,,,,,0,0,F,F,F,
 9274,94bfca2c,GitHub,6d59a88a,data/6d59a88a/src/b.py,116:116,F,F,,,F,F,,,,,0,0,F,F,F,
-9281,aaf71e6b,GitHub,6d59a88a,data/6d59a88a/test/m.py,67:67,Template,F,,,F,F,,,,,0,0,F,F,F,
+9281,aaf71e6b,GitHub,6d59a88a,data/6d59a88a/test/m.py,67:67,Template,F,15,19,F,F,CharOnly,,,Secret,2.00,4,F,F,F,Password
 9451,4d2f2210,GitHub,6d59a88a,data/6d59a88a/test/p.py,73:73,F,F,,,F,F,,,,,0,0,F,F,F,
 9452,aa6ab8e6,GitHub,6d59a88a,data/6d59a88a/test/s.py,89:89,F,F,,,F,F,,,,,0,0,F,F,F,
 10462,163c1026,GitHub,6d59a88a,data/6d59a88a/test/o.py,735:735,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -67,5 +67,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82337,c088fe17,GitHub,6d59a88a,data/6d59a88a/test/n.py,144:144,F,F,42,48,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
 82338,c088fe17,GitHub,6d59a88a,data/6d59a88a/test/n.py,145:145,F,F,32,38,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
 82339,c088fe17,GitHub,6d59a88a,data/6d59a88a/test/n.py,154:154,F,F,32,38,F,F,CharsOnly,,,Secret,2.25,6,F,F,F,Password
-,dab25fca,GitHub,6d59a88a,data/6d59a88a/src/a.py,91:91,F,,,,,,,,,,,,,,,
-,214a2564,GitHub,6d59a88a,data/6d59a88a/src/j.rst,602:602,F,,,,,,,,,,,,,,,
+107466,dab25fca,GitHub,6d59a88a,data/6d59a88a/src/a.py,91:91,F,F,,,F,F,,,,,0.00,,F,F,F,
+107467,214a2564,GitHub,6d59a88a,data/6d59a88a/src/j.rst,602:602,F,F,,,F,F,,,,,0.00,,F,F,F,

@@ -243,9 +243,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82359,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,49:49,F,F,23,47,F,F,,,,,0,0,F,F,F,
 82360,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,71:71,F,F,23,47,F,F,,,,,0,0,F,F,F,
 82361,c8fe62ff,GitHub,50595139,data/50595139/test/g.xcscheme,95:95,F,F,23,47,F,F,,,,,0,0,F,F,F,
-,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,111:111,F,,,,,,,,,,,,,,,
-,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,379:379,F,,,,,,,,,,,,,,,
-,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,529:529,Template,,9,17,,,,,,,,,,,,
-,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,794:794,Template,,13,21,,,,,,,,,,,,
-,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,894:894,Template,,9,17,,,,,,,,,,,,
-,28de09ab,GitHub,50595139,data/50595139/test/c.m,302:302,F,,,,,,,,,,,,,,,
+101756,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,111:111,F,F,,,F,F,,,,,0.00,,F,F,F,
+101757,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,379:379,F,F,,,F,F,,,,,0.00,,F,F,F,
+101758,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,529:529,Template,T,9,17,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+101759,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,794:794,Template,T,13,21,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+101760,dc4bcc02,GitHub,50595139,data/50595139/src/i.m,894:894,Template,T,9,17,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password
+101761,28de09ab,GitHub,50595139,data/50595139/test/c.m,302:302,F,F,,,F,F,,,,,0.00,,F,F,F,

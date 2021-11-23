@@ -17,7 +17,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 1840,8dbeb3aa,GitHub,3adfbe9d,data/3adfbe9d/other/j.md,131:131,F,F,,,F,F,,,,,0,0,F,F,F,
 2960,89da07a6,GitHub,3adfbe9d,data/3adfbe9d/src/cf.ts,70:70,F,F,,,F,F,,,,,0,0,F,F,F,
 7134,aaa5bfda,GitHub,3adfbe9d,data/3adfbe9d/other/b.md,306:306,F,F,,,F,F,,,,,0,0,F,F,F,
-7135,aaa5bfda,GitHub,3adfbe9d,data/3adfbe9d/other/b.md,310:310,Template,F,,,F,F,,,,,0,0,F,F,F,
+7135,aaa5bfda,GitHub,3adfbe9d,data/3adfbe9d/other/b.md,310:310,Template,T,51,63,F,F,Any,,,Secret,2.79,12,F,F,F,Password
 12801,f609cda6,GitHub,3adfbe9d,data/3adfbe9d/src/a.vue,64:64,F,F,,,F,F,,,,,0,0,F,F,F,
 13849,51e4f558,GitHub,3adfbe9d,data/3adfbe9d/src/ci.lock,6408:6408,F,F,,,F,F,,,,,0,0,F,F,F,
 13857,70d70f37,GitHub,3adfbe9d,data/3adfbe9d/src/p.lock,4485:4485,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -130,7 +130,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 47982,270247a6,GitHub,3adfbe9d,data/3adfbe9d/test/ch.ts,1991:1991,F,F,,,F,F,,,,,0,0,F,F,F,
 47983,8dbeb3aa,GitHub,3adfbe9d,data/3adfbe9d/other/j.md,244:244,F,F,,,F,F,,,,,0,0,F,F,F,
 47984,8dbeb3aa,GitHub,3adfbe9d,data/3adfbe9d/other/j.md,188:188,F,F,,,F,F,,,,,0,0,F,F,F,
-49988,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,487:487,Template,F,,,F,F,,,,,0,0,F,F,F,
+49988,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,487:487,Template,T,51,63,F,F,Any,,,Secret,2.79,12,F,F,F,Password
 50304,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,237:237,F,F,11,20,F,F,,,,,0,0,F,F,F,
 57339,f0925f7a,GitHub,3adfbe9d,data/3adfbe9d/other/m.md,178:178,F,F,,,F,F,,,,,0,0,F,F,F,
 57437,270247a6,GitHub,3adfbe9d,data/3adfbe9d/test/ch.ts,2071:2071,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -145,6 +145,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74747,6bea0aca,GitHub,3adfbe9d,data/3adfbe9d/other/g.md,758:758,Template,T,11,44,F,F,Any,,,Secret,3.37,33,F,F,F,Generic Secret
 74792,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,69:69,F,F,,,F,F,,,,,0,0,F,F,F,
 83183,e8771203,GitHub,3adfbe9d,data/3adfbe9d/other/l.md,187:187,F,F,15,23,F,F,,,,,0,0,F,F,F,
-,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,294:294,F,,,,,,,,,,,,,,,
-,89da07a6,GitHub,3adfbe9d,data/3adfbe9d/src/cf.ts,2:2,F,,,,,,,,,,,,,,,
-,270247a6,GitHub,3adfbe9d,data/3adfbe9d/test/ch.ts,472:472,F,,,,,,,,,,,,,,,
+100797,429b10df,GitHub,3adfbe9d,data/3adfbe9d/other/e.md,294:294,F,F,,,F,F,,,,,0.00,,F,F,F,
+100798,89da07a6,GitHub,3adfbe9d,data/3adfbe9d/src/cf.ts,2:2,F,F,,,F,F,,,,,0.00,,F,F,F,
+100799,270247a6,GitHub,3adfbe9d,data/3adfbe9d/test/ch.ts,472:472,F,F,,,F,F,,,,,0.00,,F,F,F,

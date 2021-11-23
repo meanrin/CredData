@@ -21,7 +21,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 17061,10a4ff6a,GitHub,ffea718f,data/ffea718f/test/i.cs,80:80,F,F,,,F,F,,,,,0,0,F,F,F,
 17719,ade75ade,GitHub,ffea718f,data/ffea718f/src/k.cs,272:272,F,F,,,F,F,,,,,0,0,F,F,F,
 25715,539d80f5,GitHub,ffea718f,data/ffea718f/src/a.Config,5:5,F,F,,,F,F,,,,,0,0,F,F,F,
-27115,37ebd5d0,GitHub,ffea718f,data/ffea718f/src/p.cs,53:53,Template,F,,,F,F,,,,,0,0,F,F,F,
+27115,37ebd5d0,GitHub,ffea718f,data/ffea718f/src/p.cs,53:53,Template,T,11,16,F,F,Any,,,Secret,1.46,5,F,F,F,Password
 29218,96e5e346,GitHub,ffea718f,data/ffea718f/test/f.cs,170:170,Template,T,12,16,F,F,CharsOnly,,,Secret,2.00,4,F,F,F,Password
 29226,96e5e346,GitHub,ffea718f,data/ffea718f/test/f.cs,186:186,Template,T,12,17,F,F,Any,,,Secret,2.32,5,F,F,F,Password
 30846,5d44ff0b,GitHub,ffea718f,data/ffea718f/test/g.config,14:14,F,F,56,72,F,F,,,,,0,0,F,F,F,
@@ -38,11 +38,11 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 35836,5d44ff0b,GitHub,ffea718f,data/ffea718f/test/g.config,22:22,F,F,80,96,F,F,,,,,0,0,F,F,F,
 35864,5d44ff0b,GitHub,ffea718f,data/ffea718f/test/g.config,18:18,F,F,65,81,F,F,,,,,0,0,F,F,F,
 37431,96e5e346,GitHub,ffea718f,data/ffea718f/test/f.cs,117:117,Template,T,78,82,F,F,CharsOnly,,,Secret,1.50,4,F,F,F,Password
-61787,9212ab55,GitHub,ffea718f,data/ffea718f/src/q.cs,67:67,Template,F,,,F,F,,,,,0,0,F,F,F,
-61788,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,71:71,Template,F,,,F,F,,,,,0,0,F,F,F,
+61787,9212ab55,GitHub,ffea718f,data/ffea718f/src/q.cs,67:67,Template,T,11,16,F,F,Any,,,Secret,1.46,5,F,F,F,Password
+61788,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,71:71,Template,T,11,16,F,F,Any,,,Secret,1.46,5,F,F,F,Password
 62449,37ebd5d0,GitHub,ffea718f,data/ffea718f/src/p.cs,52:52,F,F,,,F,F,,,,,0,0,F,F,F,
 75300,37ebd5d0,GitHub,ffea718f,data/ffea718f/src/p.cs,197:197,F,F,,,F,F,,,,,0,0,F,F,F,
 75301,37ebd5d0,GitHub,ffea718f,data/ffea718f/src/p.cs,186:186,F,F,,,F,F,,,,,0,0,F,F,F,
-,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,101:101,F,,,,,,,,,,,,,,,
-,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,395:395,F,,,,,,,,,,,,,,,
-,10a4ff6a,GitHub,ffea718f,data/ffea718f/test/i.cs,335:335,F,,,,,,,,,,,,,,,
+101647,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,101:101,F,F,,,F,F,,,,,0.00,,F,F,F,
+101648,6dffc537,GitHub,ffea718f,data/ffea718f/src/r.cs,395:395,F,F,,,F,F,,,,,0.00,,F,F,F,
+101649,10a4ff6a,GitHub,ffea718f,data/ffea718f/test/i.cs,335:335,F,F,,,F,F,,,,,0.00,,F,F,F,

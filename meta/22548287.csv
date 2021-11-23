@@ -2,7 +2,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 122,fcebe908,GitHub,22548287,data/22548287/src/w.yml,231:231,F,F,,,F,F,,,,,0,0,F,F,F,
 126,6ae88d48,GitHub,22548287,data/22548287/src/y.yml,225:225,F,F,,,F,F,,,,,0,0,F,F,F,
 128,44438ce2,GitHub,22548287,data/22548287/src/v.yml,174:174,F,F,,,F,F,,,,,0,0,F,F,F,
-204,74729226,GitHub,22548287,data/22548287/other/p,16:16,Template,F,,,F,F,,,,,0,0,F,F,F,
+204,74729226,GitHub,22548287,data/22548287/other/p,16:16,Template,T,24,39,F,F,Any,,,Secret,3.06,15,F,F,F,Password
 205,74729226,GitHub,22548287,data/22548287/other/p,15:15,F,F,,,F,F,,,,,0,0,F,F,F,
 901,c7b65d90,GitHub,22548287,data/22548287/src/bi.rb,11:11,F,F,,,F,F,,,,,0,0,F,F,F,
 902,3277ae01,GitHub,22548287,data/22548287/src/bl.rb,19:19,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -148,5 +148,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76176,6ae88d48,GitHub,22548287,data/22548287/src/y.yml,97:97,F,F,,,F,F,,,,,0,0,F,F,F,
 76177,6ae88d48,GitHub,22548287,data/22548287/src/y.yml,261:261,F,F,,,F,F,,,,,0,0,F,F,F,
 76178,e99e1edd,GitHub,22548287,data/22548287/src/x.yml,209:209,F,F,,,F,F,,,,,0,0,F,F,F,
-,aca9b509,GitHub,22548287,data/22548287/src/a.env,3:3,F,,,,,,,,,,,,,,,
-,b9c876aa,GitHub,22548287,data/22548287/src/z.yml,16:16,Template,,17,25,,,,,,,,,,,,
+101442,aca9b509,GitHub,22548287,data/22548287/src/a.env,3:3,F,F,,,F,F,,,,,0.00,,F,F,F,
+101443,b9c876aa,GitHub,22548287,data/22548287/src/z.yml,16:16,Template,T,17,25,F,F,CharOnly,,,Secret,2.75,8,F,F,F,Password

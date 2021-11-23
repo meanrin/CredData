@@ -16,7 +16,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 17498,e3b4acf8,GitHub,8035fc42,data/8035fc42/other/f.md,57:57,F,F,,,F,F,,,,,0,0,F,F,F,
 17500,08b39d2a,GitHub,8035fc42,data/8035fc42/test/n.cljc,30:30,F,F,,,F,F,,,,,0,0,F,F,F,
 17634,a0956c55,GitHub,8035fc42,data/8035fc42/src/d.clj,14:14,F,F,,,F,F,,,,,0,0,F,F,F,
-18463,128a3f9f,GitHub,8035fc42,data/8035fc42/other/e.md,83:83,Template,F,,,F,F,,,,,0,0,F,F,F,
+18463,128a3f9f,GitHub,8035fc42,data/8035fc42/other/e.md,83:83,Template,F,49,55,T,F,CharOnly,,,Secret,2.25,6,F,F,F,Other
 18913,128a3f9f,GitHub,8035fc42,data/8035fc42/other/e.md,78:78,F,F,,,F,F,,,,,0,0,F,F,F,
 18918,b6630af9,GitHub,8035fc42,data/8035fc42/src/i.cljc,20:20,F,F,,,F,F,,,,,0,0,F,F,F,
 26509,920e5839,GitHub,8035fc42,data/8035fc42/test/g.yml,7:7,F,F,,,F,F,,,,,0,0,F,F,F,

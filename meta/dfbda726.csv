@@ -26,7 +26,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 35769,5151b26c,GitHub,dfbda726,data/dfbda726/src/i.js,56:56,T,T,16,85,F,F,Any,,,Token,4.23,69,F,F,F,Generic Token
 47703,66e0d17a,GitHub,dfbda726,data/dfbda726/other/h.md,9:9,Template,T,18,29,F,F,Any,,,Unknown,2.78,11,F,F,F,Other
 74606,795eb4dc,GitHub,dfbda726,data/dfbda726/src/j.js,79:79,F,F,,,F,F,,,,,0,0,F,F,F,
-,b0c1a6ae,GitHub,dfbda726,data/dfbda726/other/c.md,29:29,Template,,24,35,,,,,,,,,,,,
-,9cc7086a,GitHub,dfbda726,data/dfbda726/other/f.md,25:25,Template,,19,30,,,,,,,,,,,,
-,66e0d17a,GitHub,dfbda726,data/dfbda726/other/h.md,29:29,Template,,21,32,,,,,,,,,,,,
-,f92342e6,GitHub,dfbda726,data/dfbda726/test/p.rb,15:15,F,,,,,,,,,,,,,,,
+107676,b0c1a6ae,GitHub,dfbda726,data/dfbda726/other/c.md,29:29,Template,T,24,35,F,F,Any,,,Secret,2.78,11,F,F,F,Password
+107677,9cc7086a,GitHub,dfbda726,data/dfbda726/other/f.md,25:25,Template,T,19,30,F,F,Any,,,Secret,2.78,11,F,F,F,Password
+107678,66e0d17a,GitHub,dfbda726,data/dfbda726/other/h.md,29:29,Template,T,21,32,F,F,Any,,,Secret,2.78,11,F,F,F,Password
+107679,f92342e6,GitHub,dfbda726,data/dfbda726/test/p.rb,15:15,F,F,,,F,F,,,,,0.00,,F,F,F,

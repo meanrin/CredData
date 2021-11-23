@@ -33,15 +33,15 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 49997,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,155:155,F,F,,,F,F,,,,,0,0,F,F,F,
 50296,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,131:131,T,F,32,64,F,F,Any,,,SeedSalt,4.81,32,F,F,F,"Seed, Salt, Nonce"
 82735,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,227:227,Template,F,20,26,F,F,,,,,0,0,F,F,F,
-,f94e9c95,GitHub,a8bdca79,data/a8bdca79/other/a.md,70:70,Template,,15,27,,,,,,,,,,,,
-,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,81:81,F,,,,,,,,,,,,,,,
-,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,113:113,F,,,,,,,,,,,,,,,
-,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,26:26,Template,,15,27,,,,,,,,,,,,
-,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,38:38,Template,,15,27,,,,,,,,,,,,
-,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,60:60,Template,,15,27,,,,,,,,,,,,
-,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,73:73,Template,,15,27,,,,,,,,,,,,
-,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,168:168,F,,,,,,,,,,,,,,,
-,a3a7e022,GitHub,a8bdca79,data/a8bdca79/src/i.java,220:220,F,,,,,,,,,,,,,,,
-,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,74:74,F,,,,,,,,,,,,,,,
-,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,101:101,F,,,,,,,,,,,,,,,
-,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,132:132,F,,,,,,,,,,,,,,,
+108638,f94e9c95,GitHub,a8bdca79,data/a8bdca79/other/a.md,70:70,Template,T,15,27,F,F,CharOnly,,,Secret,2.86,12,F,F,F,Password
+108639,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,81:81,F,F,,,F,F,,,,,0.00,,F,F,F,
+108640,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,113:113,F,F,,,F,F,,,,,0.00,,F,F,F,
+108641,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,26:26,Template,T,15,27,F,F,CharOnly,,,Secret,2.86,12,F,F,F,Password
+108642,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,38:38,Template,T,15,27,F,F,CharOnly,,,Secret,2.86,12,F,F,F,Password
+108643,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,60:60,Template,T,15,27,F,F,CharOnly,,,Secret,2.86,12,F,F,F,Password
+108644,253c6330,GitHub,a8bdca79,data/a8bdca79/test/j.java,73:73,Template,T,15,27,F,F,CharOnly,,,Secret,2.86,12,F,F,F,Password
+108645,e8ba995b,GitHub,a8bdca79,data/a8bdca79/src/h.java,168:168,F,F,,,F,F,,,,,0.00,,F,F,F,
+108646,a3a7e022,GitHub,a8bdca79,data/a8bdca79/src/i.java,220:220,F,F,,,F,F,,,,,0.00,,F,F,F,
+108647,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,74:74,F,F,,,F,F,,,,,0.00,,F,F,F,
+108648,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,101:101,F,F,,,F,F,,,,,0.00,,F,F,F,
+108649,1a5f2491,GitHub,a8bdca79,data/a8bdca79/test/k.java,132:132,F,F,,,F,F,,,,,0.00,,F,F,F,

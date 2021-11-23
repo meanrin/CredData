@@ -2,7 +2,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 1470,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,19359:19359,F,F,,,F,F,,,,,0,0,F,F,F,
 3941,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,9647:9647,F,F,,,F,F,,,,,0,0,F,F,F,
 4972,317f99c1,GitHub,3bc98c93,data/3bc98c93/test/f,38:38,F,F,,,F,F,,,,,0,0,F,F,F,
-6469,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,165:165,Template,F,,,F,F,,,,,0,0,F,F,F,
+6469,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,165:165,Template,F,42,46,F,F,NumberOnly,,,Secret,1.00,4,F,F,F,Password
 6573,75f00512,GitHub,3bc98c93,data/3bc98c93/test/d,101:101,F,F,,,F,F,,,,,0,0,F,F,F,
 6574,317f99c1,GitHub,3bc98c93,data/3bc98c93/test/f,36:36,F,F,,,F,F,,,,,0,0,F,F,F,
 7378,04c9aca5,GitHub,3bc98c93,data/3bc98c93/test/e,138:138,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -38,9 +38,9 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74772,6a76a759,GitHub,3bc98c93,data/3bc98c93/test/k.js,4535:4535,F,F,,,F,F,,,,,0,0,F,F,F,
 76786,72b87e9d,GitHub,3bc98c93,data/3bc98c93/test/m.js,3710:3710,F,F,,,F,F,,,,,0,0,F,F,F,
 76788,716f6d4e,GitHub,3bc98c93,data/3bc98c93/test/l.js,1901:1901,F,F,,,F,F,,,,,0,0,F,F,F,
-,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,41:41,T,,38,52,,,,,,,,,,,,
-,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,79:79,T,,38,52,,,,,,,,,,,,
-,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,773:773,F,,,,,,,,,,,,,,,
-,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,14802:14802,F,,,,,,,,,,,,,,,
-,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,21338:21338,F,,,,,,,,,,,,,,,
-,72b87e9d,GitHub,3bc98c93,data/3bc98c93/test/m.js,3355:3355,F,,,,,,,,,,,,,,,
+108492,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,41:41,T,F,38,52,F,F,Any,,,Secret,3.26,14,F,F,F,Password
+108493,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,79:79,T,F,38,52,F,F,Any,,,Secret,2.92,14,F,F,F,Password
+108494,b3356305,GitHub,3bc98c93,data/3bc98c93/other/a.md,773:773,F,F,,,F,F,,,,,0.00,,F,F,F,
+108495,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,14802:14802,F,F,,,F,F,,,,,0.00,,F,F,F,
+108496,ef846001,GitHub,3bc98c93,data/3bc98c93/test/h.js,21338:21338,F,F,,,F,F,,,,,0.00,,F,F,F,
+108497,72b87e9d,GitHub,3bc98c93,data/3bc98c93/test/m.js,3355:3355,F,F,,,F,F,,,,,0.00,,F,F,F,

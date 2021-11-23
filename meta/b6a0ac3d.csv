@@ -30,8 +30,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 12754,2f4d83be,GitHub,b6a0ac3d,data/b6a0ac3d/src/e.rs,411:411,F,F,,,F,F,,,,,0,0,F,F,F,
 12855,2f4d83be,GitHub,b6a0ac3d,data/b6a0ac3d/src/e.rs,418:418,F,F,,,F,F,,,,,0,0,F,F,F,
 14152,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,722:722,F,F,,,F,F,,,,,0,0,F,F,F,
-14157,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,671:671,Template,F,,,F,F,,,,,0,0,F,F,F,
-14640,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,110:110,Template,F,,,F,F,,,,,0,0,F,F,F,
+14157,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,671:671,Template,T,10,15,F,F,Any,,,Secret,1.86,5,F,F,F,Password
+14640,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,110:110,Template,T,14,29,F,F,Any,,,Secret,2.73,15,F,F,F,Password
 14648,2f4d83be,GitHub,b6a0ac3d,data/b6a0ac3d/src/e.rs,395:395,F,F,,,F,F,,,,,0,0,F,F,F,
 14649,2f4d83be,GitHub,b6a0ac3d,data/b6a0ac3d/src/e.rs,391:391,F,F,,,F,F,,,,,0,0,F,F,F,
 14650,2f4d83be,GitHub,b6a0ac3d,data/b6a0ac3d/src/e.rs,415:415,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -51,5 +51,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 78011,4e251f40,GitHub,b6a0ac3d,data/b6a0ac3d/src/a.rs,79:79,F,F,,,F,F,,,,,0,0,F,F,F,
 83274,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,688:688,Template,F,10,15,F,F,,,,,0,0,F,F,F,
 83275,92f02c26,GitHub,b6a0ac3d,data/b6a0ac3d/src/c.rs,705:705,Template,F,10,15,F,F,,,,,0,0,F,F,F,
-,3b2295c2,GitHub,b6a0ac3d,data/b6a0ac3d/src/b.rs,84:84,F,,,,,,,,,,,,,,,
-,3b2295c2,GitHub,b6a0ac3d,data/b6a0ac3d/src/b.rs,334:334,F,,,,,,,,,,,,,,,
+107973,3b2295c2,GitHub,b6a0ac3d,data/b6a0ac3d/src/b.rs,84:84,F,F,,,F,F,,,,,0.00,,F,F,F,
+107974,3b2295c2,GitHub,b6a0ac3d,data/b6a0ac3d/src/b.rs,334:334,F,F,,,F,F,,,,,0.00,,F,F,F,

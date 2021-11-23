@@ -18,4 +18,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 22344,312cefda,GitHub,8e7a08b0,data/8e7a08b0/test/f.json,2:2,F,F,,,F,F,,,,,0,0,F,F,F,
 34774,7cc51485,GitHub,8e7a08b0,data/8e7a08b0/src/a.yml,25:25,Template,T,17,31,F,F,Any,,,Secret,3.25,14,F,F,F,Password
 50298,7d089ade,GitHub,8e7a08b0,data/8e7a08b0/other/j.md,104:104,F,F,,,F,F,,,,,0,0,F,F,F,
-,567dfb3c,GitHub,8e7a08b0,data/8e7a08b0/src/c.java,222:222,F,,,,,,,,,,,,,,,
+101529,567dfb3c,GitHub,8e7a08b0,data/8e7a08b0/src/c.java,222:222,F,F,,,F,F,,,,,0.00,,F,F,F,

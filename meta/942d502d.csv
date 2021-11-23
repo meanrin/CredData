@@ -13,8 +13,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 4526,9a764cde,GitHub,942d502d,data/942d502d/src/v.sh,8:8,F,F,,,F,F,,,,,0,0,F,F,F,
 4527,f419b158,GitHub,942d502d,data/942d502d/src/u.sh,30:30,F,F,,,F,F,,,,,0,0,F,F,F,
 6244,c9391b6c,GitHub,942d502d,data/942d502d/src/p.sh,5:5,F,F,,,F,F,,,,,0,0,F,F,F,
-7472,a0cb7fbb,GitHub,942d502d,data/942d502d/other/bd.rst,43:43,Template,F,,,F,F,,,,,0,0,F,F,F,
-7473,a0cb7fbb,GitHub,942d502d,data/942d502d/other/bd.rst,40:40,Template,F,,,F,F,,,,,0,0,F,F,F,
+7472,a0cb7fbb,GitHub,942d502d,data/942d502d/other/bd.rst,43:43,Template,T,28,43,F,F,Any,,,Secret,2.73,15,F,F,F,Password
+7473,a0cb7fbb,GitHub,942d502d,data/942d502d/other/bd.rst,40:40,Template,T,28,43,F,F,Any,,,Secret,2.73,15,F,F,F,Password
 7489,4d2ba911,GitHub,942d502d,data/942d502d/other/bb.md,10:10,F,F,,,F,F,,,,,0,0,F,F,F,
 8335,1b15b0b1,GitHub,942d502d,data/942d502d/src/bf.conf,32:32,F,F,,,F,F,,,,,0,0,F,F,F,
 8914,a5101cea,GitHub,942d502d,data/942d502d/src/a.py,256:256,F,F,,,F,F,,,,,0,0,F,F,F,

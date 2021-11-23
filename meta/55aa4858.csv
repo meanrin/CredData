@@ -2,8 +2,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 1367,b3356305,GitHub,55aa4858,data/55aa4858/other/a.md,22:22,F,F,,,F,F,,,,,0,0,F,F,F,
 21076,7506d301,GitHub,55aa4858,data/55aa4858/src/e.conf,96:96,F,F,,,F,F,,,,,0,0,F,F,F,
 21715,7506d301,GitHub,55aa4858,data/55aa4858/src/e.conf,180:180,F,F,,,F,F,,,,,0,0,F,F,F,
-22289,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,830:830,Template,F,,,F,F,,,,,0,0,F,F,F,
-22290,373062bc,GitHub,55aa4858,data/55aa4858/src/h.html,179:179,Template,F,,,F,F,,,,,0,0,F,F,F,
+22289,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,830:830,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
+22290,373062bc,GitHub,55aa4858,data/55aa4858/src/h.html,179:179,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
 22548,dfa29cbb,GitHub,55aa4858,data/55aa4858/src/g.html,202:202,F,F,,,F,F,,,,,0,0,F,F,F,
 22550,285557ea,GitHub,55aa4858,data/55aa4858/other/c.md,147:147,F,F,,,F,F,,,,,0,0,F,F,F,
 22552,0b5ca119,GitHub,55aa4858,data/55aa4858/other/b.md,147:147,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -21,11 +21,11 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 42851,373062bc,GitHub,55aa4858,data/55aa4858/src/h.html,254:254,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
 42852,373062bc,GitHub,55aa4858,data/55aa4858/src/h.html,276:276,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
 42853,373062bc,GitHub,55aa4858,data/55aa4858/src/h.html,283:283,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
-48240,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,898:898,Template,F,,,F,F,,,,,0,0,F,F,F,
-48241,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,909:909,Template,F,,,F,F,,,,,0,0,F,F,F,
-48242,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,882:882,Template,F,,,F,F,,,,,0,0,F,F,F,
-48243,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,871:871,Template,F,,,F,F,,,,,0,0,F,F,F,
-48244,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,855:855,Template,F,,,F,F,,,,,0,0,F,F,F,
+48240,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,898:898,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
+48241,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,909:909,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
+48242,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,882:882,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
+48243,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,871:871,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
+48244,caf97ccc,GitHub,55aa4858,data/55aa4858/other/f.md,855:855,Template,T,12,23,F,F,Any,,,Secret,2.33,11,F,F,F,Password
 50060,285557ea,GitHub,55aa4858,data/55aa4858/other/c.md,22:22,F,F,,,F,F,,,,,0,0,F,F,F,
 50061,0b5ca119,GitHub,55aa4858,data/55aa4858/other/b.md,22:22,F,F,,,F,F,,,,,0,0,F,F,F,
 55198,b3356305,GitHub,55aa4858,data/55aa4858/other/a.md,151:151,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -90,5 +90,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 55622,8214a561,GitHub,55aa4858,data/55aa4858/src/d.conf,97:97,Template,T,18,24,F,F,CharsOnly,,,Unknown,2.25,6,F,F,F,Other
 55623,8214a561,GitHub,55aa4858,data/55aa4858/src/d.conf,96:96,F,F,,,F,F,,,,,0,0,F,F,F,
 55630,8214a561,GitHub,55aa4858,data/55aa4858/src/d.conf,180:180,F,F,,,F,F,,,,,0,0,F,F,F,
-,8214a561,GitHub,55aa4858,data/55aa4858/src/d.conf,46:46,F,,,,,,,,,,,,,,,
-,7506d301,GitHub,55aa4858,data/55aa4858/src/e.conf,46:46,F,,,,,,,,,,,,,,,
+100587,8214a561,GitHub,55aa4858,data/55aa4858/src/d.conf,46:46,F,F,,,F,F,,,,,0.00,,F,F,F,
+100588,7506d301,GitHub,55aa4858,data/55aa4858/src/e.conf,46:46,F,F,,,F,F,,,,,0.00,,F,F,F,

@@ -80,4 +80,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74788,c429cc04,GitHub,7ba140d7,data/7ba140d7/src/bc.ts,68:68,F,F,,,F,F,,,,,0,0,F,F,F,
 74795,f863a975,GitHub,7ba140d7,data/7ba140d7/src/j.ts,129:129,F,F,,,F,F,,,,,0,0,F,F,F,
 74796,f863a975,GitHub,7ba140d7,data/7ba140d7/src/j.ts,163:163,F,F,,,F,F,,,,,0,0,F,F,F,
-,6f3cb91e,GitHub,7ba140d7,data/7ba140d7/src/ba.ts,79:79,F,,,,,,,,,,,,,,,
+108512,6f3cb91e,GitHub,7ba140d7,data/7ba140d7/src/ba.ts,79:79,F,F,,,F,F,,,,,0.00,,F,F,F,

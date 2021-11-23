@@ -134,4 +134,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74871,88acc9c7,GitHub,339ca0ed,data/339ca0ed/src/k.kt,161:161,F,F,,,F,F,,,,,0,0,F,F,F,
 74872,04ce3df7,GitHub,339ca0ed,data/339ca0ed/src/n.kt,827:827,F,F,,,F,F,,,,,0,0,F,F,F,
 74873,04ce3df7,GitHub,339ca0ed,data/339ca0ed/src/n.kt,844:844,F,F,,,F,F,,,,,0,0,F,F,F,
-,fc44f64d,GitHub,339ca0ed,data/339ca0ed/src/l.kt,228:228,F,,,,,,,,,,,,,,,
+107464,fc44f64d,GitHub,339ca0ed,data/339ca0ed/src/l.kt,228:228,F,F,,,F,F,,,,,0.00,,F,F,F,

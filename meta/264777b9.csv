@@ -34,4 +34,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 33814,a3046da0,GitHub,264777b9,data/264777b9/test/a.example,12:12,T,F,15,41,F,F,CharsOnly,,,Secret,2.99,26,F,F,F,Password
 43089,ee900528,GitHub,264777b9,data/264777b9/src/b.ts,105:105,F,F,,,F,F,,,,,0,0,F,F,F,
 62325,e7ba9fda,GitHub,264777b9,data/264777b9/src/c.ts,181:181,F,F,,,F,F,,,,,0,0,F,F,F,
-,ee900528,GitHub,264777b9,data/264777b9/src/b.ts,26:26,F,,,,,,,,,,,,,,,
+107383,ee900528,GitHub,264777b9,data/264777b9/src/b.ts,26:26,F,F,,,F,F,,,,,0.00,,F,F,F,

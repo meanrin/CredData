@@ -35,10 +35,10 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 11901,14128680,GitHub,891ea546,data/891ea546/src/k.sql,13:13,F,F,,,F,F,,,,,0,0,F,F,F,
 20284,23f3a9eb,GitHub,891ea546,data/891ea546/src/c.go,345:345,F,F,,,F,F,,,,,0,0,F,F,F,
 20291,42356610,GitHub,891ea546,data/891ea546/src/g.go,280:280,F,F,,,F,F,,,,,0,0,F,F,F,
-20935,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,37:37,Template,F,,,F,F,,,,,0,0,F,F,F,
+20935,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,37:37,Template,T,81,88,F,F,CharOnly,,,Secret,2.81,7,F,F,F,Password
 21007,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,39:39,F,F,,,F,F,,,,,0,0,F,F,F,
-21128,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,35:35,Template,F,,,F,F,,,,,0,0,F,F,F,
-21129,570c8415,GitHub,891ea546,data/891ea546/src/o.toml,13:13,Template,F,,,F,F,,,,,0,0,F,F,F,
+21128,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,35:35,Template,T,75,82,F,F,CharOnly,,,Secret,2.81,7,F,F,F,Password
+21129,570c8415,GitHub,891ea546,data/891ea546/src/o.toml,13:13,Template,T,75,82,F,F,CharOnly,,,Secret,2.81,7,F,F,F,Password
 23127,46eb8535,GitHub,891ea546,data/891ea546/src/i.go,279:279,F,F,,,F,F,,,,,0,0,F,F,F,
 23304,5e983e1c,GitHub,891ea546,data/891ea546/src/p.init,14:14,F,F,,,F,F,,,,,0,0,F,F,F,
 24664,46eb8535,GitHub,891ea546,data/891ea546/src/i.go,235:235,F,F,,,F,F,,,,,0,0,F,F,F,
@@ -112,8 +112,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 62107,2b8dca17,GitHub,891ea546,data/891ea546/test/n.go,1001:1001,F,F,,,F,F,,,,,0,0,F,F,F,
 82483,7a1e5ecd,GitHub,891ea546,data/891ea546/src/l.go,68:68,F,F,18,35,F,F,,,,,0,0,F,F,F,
 82484,7a1e5ecd,GitHub,891ea546,data/891ea546/src/l.go,77:77,F,F,11,28,F,F,,,,,0,0,F,F,F,
-,e45e45ba,GitHub,891ea546,data/891ea546/src/d.yml,21:21,Template,,23,33,,,,,,,,,,,,
-,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,593:593,F,,,,,,,,,,,,,,,
-,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,945:945,F,,,,,,,,,,,,,,,
-,3295df72,GitHub,891ea546,data/891ea546/src/e.sum,303:303,F,,,,,,,,,,,,,,,
-,570c8415,GitHub,891ea546,data/891ea546/src/o.toml,165:165,F,,,,,,,,,,,,,,,
+108585,e45e45ba,GitHub,891ea546,data/891ea546/src/d.yml,21:21,Template,T,23,33,F,F,CharOnly,,,Secret,2.65,10,F,F,F,Password
+108586,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,593:593,F,F,,,F,F,,,,,0.00,,F,F,F,
+108587,e60d3d7a,GitHub,891ea546,data/891ea546/src/a.go,945:945,F,F,,,F,F,,,,,0.00,,F,F,F,
+108588,3295df72,GitHub,891ea546,data/891ea546/src/e.sum,303:303,F,F,,,F,F,,,,,0.00,,F,F,F,
+108589,570c8415,GitHub,891ea546,data/891ea546/src/o.toml,165:165,F,F,,,F,F,,,,,0.00,,F,F,F,

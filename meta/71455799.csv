@@ -242,4 +242,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 77114,6410c125,GitHub,71455799,data/71455799/src/bk.go,187:187,F,F,,,F,F,,,,,0,0,F,F,F,
 77115,6410c125,GitHub,71455799,data/71455799/src/bk.go,229:229,F,F,,,F,F,,,,,0,0,F,F,F,
 82557,08a2c15d,GitHub,71455799,data/71455799/test/q.tfstate,134:134,T,F,12,188,F,F,Any,,JSON Web Token,Unknown,5.14,176,F,F,F,Predefined Pattern
-,3295df72,GitHub,71455799,data/71455799/src/d.sum,515:515,F,,,,,,,,,,,,,,,
+108511,3295df72,GitHub,71455799,data/71455799/src/d.sum,515:515,F,F,,,F,F,,,,,0.00,,F,F,F,

@@ -18,4 +18,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 35790,ec94cf7a,GitHub,d2d6eedc,data/d2d6eedc/test/a.go,75:75,T,F,16,104,F,F,Any,,,Token,5.30,88,F,F,F,Generic Token
 82622,83e7ca17,GitHub,d2d6eedc,data/d2d6eedc/src/c.go,80:80,F,F,19,26,F,F,,,,,0,0,F,F,F,
 82623,83e7ca17,GitHub,d2d6eedc,data/d2d6eedc/src/c.go,100:100,F,F,19,26,F,F,,,,,0,0,F,F,F,
-,ec94cf7a,GitHub,d2d6eedc,data/d2d6eedc/test/a.go,88:88,T,,125,147,,,,,,,,,,,,
+108707,ec94cf7a,GitHub,d2d6eedc,data/d2d6eedc/test/a.go,88:88,T,F,125,147,F,F,Any,,,Secret,3.24,22,F,F,T,Password

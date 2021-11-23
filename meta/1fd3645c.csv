@@ -15,8 +15,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 10963,dce24682,GitHub,1fd3645c,data/1fd3645c/test/g.py,10:10,F,F,,,F,F,,,,,0,0,F,F,F,
 10964,7441d9f4,GitHub,1fd3645c,data/1fd3645c/test/h.py,24:24,F,F,,,F,F,,,,,0,0,F,F,F,
 10965,22a37990,GitHub,1fd3645c,data/1fd3645c/test/k.py,10:10,F,F,,,F,F,,,,,0,0,F,F,F,
-11414,7eb88f2b,GitHub,1fd3645c,data/1fd3645c/test/e.py,20:20,Template,F,,,F,F,,,,,0,0,F,F,F,
-11415,3fc6fc71,GitHub,1fd3645c,data/1fd3645c/test/f.py,10:10,Template,F,,,F,F,,,,,0,0,F,F,F,
+11414,7eb88f2b,GitHub,1fd3645c,data/1fd3645c/test/e.py,20:20,Template,T,19,32,F,F,Any,,,Secret,2.98,13,F,F,F,Password
+11415,3fc6fc71,GitHub,1fd3645c,data/1fd3645c/test/f.py,10:10,Template,T,0,5,F,F,CharOnly,,,Secret,2.32,5,F,F,F,Password
 11535,ffa95f10,GitHub,1fd3645c,data/1fd3645c/test/m.py,20:20,F,F,,,F,F,,,,,0,0,F,F,F,
 11536,7afbbe95,GitHub,1fd3645c,data/1fd3645c/test/j.py,97:97,F,F,,,F,F,,,,,0,0,F,F,F,
 12192,7eb88f2b,GitHub,1fd3645c,data/1fd3645c/test/e.py,11:11,F,F,,,F,F,,,,,0,0,F,F,F,
