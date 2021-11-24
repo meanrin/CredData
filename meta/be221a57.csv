@@ -71,3 +71,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 102390,9b99e511,GitHub,be221a57,data/be221a57/test/g.ts,449:449,Template,T,13,27,F,F,CharOnly,,,Secret,3.09,14,F,F,F,Password
 102391,b241041a,GitHub,be221a57,data/be221a57/test/h.ts,49:49,F,F,,,F,F,,,,,0.00,,F,F,F,
 113347,5a831ea6,GitHub,be221a57,data/be221a57/other/a.md,1121:1121,F,F,,,F,F,,,,,0.00,,F,F,F,
+130930,2f3e8826,GitHub,be221a57,data/be221a57/src/b.ts,1177:1177,F,F,,,F,F,,,,,0.00,,F,F,F,

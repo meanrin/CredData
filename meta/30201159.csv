@@ -25,3 +25,10 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 63432,b3356305,GitHub,30201159,data/30201159/other/a.md,32:32,Template,F,29,39,F,F,NumbersOnly,,,Token,3.32,10,F,F,F,Generic Token
 63433,bd01793e,GitHub,30201159,data/30201159/test/b.rb,7:7,Template,F,29,39,F,F,NumbersOnly,,,Token,3.32,10,F,F,F,Generic Token
 102331,ca2b1205,GitHub,30201159,data/30201159/src/f.rb,65:65,F,F,,,F,F,,,,,0.00,,F,F,F,
+130919,b3356305,GitHub,30201159,data/30201159/other/a.md,30:30,F,F,,,F,F,,,,,0.00,,F,F,F,
+130920,f066e4eb,GitHub,30201159,data/30201159/test/c.rb,5:5,F,F,,,F,F,,,,,0.00,,F,F,F,
+130921,878ab480,GitHub,30201159,data/30201159/src/e.rb,43:43,F,F,,,F,F,,,,,0.00,,F,F,F,
+130922,878ab480,GitHub,30201159,data/30201159/src/e.rb,73:73,F,F,,,F,F,,,,,0.00,,F,F,F,
+130923,bd01793e,GitHub,30201159,data/30201159/test/b.rb,5:5,F,F,,,F,F,,,,,0.00,,F,F,F,
+130924,5aa1ec2f,GitHub,30201159,data/30201159/src/d.rb,13:13,F,F,,,F,F,,,,,0.00,,F,F,F,
+130925,878ab480,GitHub,30201159,data/30201159/src/e.rb,74:74,Template,F,18,20,F,F,Any,,,Secret,0.00,2,F,F,F,Password

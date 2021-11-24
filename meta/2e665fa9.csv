@@ -102,3 +102,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 82240,93d50683,GitHub,2e665fa9,data/2e665fa9/src/j.ts,114:114,F,F,47,54,F,F,,,,,0,0,F,F,F,
 108300,06572a96,GitHub,2e665fa9,data/2e665fa9/other/a.md,351:351,F,F,,,F,F,,,,,0.00,,F,F,F,
 108301,04e6e091,GitHub,2e665fa9,data/2e665fa9/src/d.ts,661:661,F,F,,,F,F,,,,,0.00,,F,F,F,
+131500,93d50683,GitHub,2e665fa9,data/2e665fa9/src/j.ts,70:70,F,F,,,F,F,,,,,0.00,,F,F,F,
+131501,93d50683,GitHub,2e665fa9,data/2e665fa9/src/j.ts,69:69,F,F,,,F,F,,,,,0.00,,F,F,F,
+131502,93d50683,GitHub,2e665fa9,data/2e665fa9/src/j.ts,77:77,F,F,,,F,F,,,,,0.00,,F,F,F,

@@ -29,3 +29,5 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 35046,14923d55,GitHub,9c7e3662,data/9c7e3662/src/j.hs,152:152,T,T,15,58,F,F,CharsOnly,,,Unknown,4.99,43,F,F,F,Other
 74220,944291df,GitHub,9c7e3662,data/9c7e3662/src/a.yaml,83:83,F,F,,,F,F,,,,,0,0,F,F,F,
 100648,5e5beff6,GitHub,9c7e3662,data/9c7e3662/test/d.js,66:66,F,F,,,F,F,,,,,0.00,,F,F,F,
+130210,cef9f57f,GitHub,9c7e3662,data/9c7e3662/src/n.js,63:63,F,F,,,F,F,,,,,0.00,,F,F,F,
+130211,cef9f57f,GitHub,9c7e3662,data/9c7e3662/src/n.js,58:58,F,F,,,F,F,,,,,0.00,,F,F,F,

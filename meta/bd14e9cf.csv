@@ -63,3 +63,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 76200,fb685b23,GitHub,bd14e9cf,data/bd14e9cf/src/h.sh,89:89,F,F,,,F,F,,,,,0,0,F,F,F,
 76201,fb685b23,GitHub,bd14e9cf,data/bd14e9cf/src/h.sh,152:152,F,F,,,F,F,,,,,0,0,F,F,F,
 100325,b16690b7,GitHub,bd14e9cf,data/bd14e9cf/src/n.sh,146:146,T,F,93,99,F,F,NumberOnly,,,Secret,0.00,0,F,F,F,Password
+130048,cc99cf26,GitHub,bd14e9cf,data/bd14e9cf/src/i.sh,639:639,F,F,,,F,F,,,,,0.00,,F,F,F,
+130049,46f3404e,GitHub,bd14e9cf,data/bd14e9cf/src/k.bat,11:11,F,F,,,F,F,,,,,0.00,,F,F,F,
+130050,cc99cf26,GitHub,bd14e9cf,data/bd14e9cf/src/i.sh,3345:3345,F,F,,,F,F,,,,,0.00,,F,F,F,
+130051,cc99cf26,GitHub,bd14e9cf,data/bd14e9cf/src/i.sh,3335:3335,F,F,,,F,F,,,,,0.00,,F,F,F,
+130052,cc99cf26,GitHub,bd14e9cf,data/bd14e9cf/src/i.sh,641:641,F,F,,,F,F,,,,,0.00,,F,F,F,

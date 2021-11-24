@@ -155,3 +155,7 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 100359,eaacd181,GitHub,16fc0238,data/16fc0238/test/i.ts,36:36,F,F,,,F,F,,,,,0.00,,F,F,F,
 110094,686d31b4,GitHub,16fc0238,data/16fc0238/src/c.ts,59:59,F,F,,,F,F,,,,,0.00,,F,F,F,
 110095,686d31b4,GitHub,16fc0238,data/16fc0238/src/c.ts,69:69,F,F,,,F,F,,,,,0.00,,F,F,F,
+130069,24ba729c,GitHub,16fc0238,data/16fc0238/src/l.ts,124:124,F,F,,,F,F,,,,,0.00,,F,F,F,
+130070,b1ff5859,GitHub,16fc0238,data/16fc0238/other/t.md,1606:1606,F,F,,,F,F,,,,,0.00,,F,F,F,
+130071,b1ff5859,GitHub,16fc0238,data/16fc0238/other/t.md,1117:1117,F,F,,,F,F,,,,,0.00,,F,F,F,
+130072,b1ff5859,GitHub,16fc0238,data/16fc0238/other/t.md,1606:1606,F,F,,,F,F,,,,,0.00,,F,F,F,

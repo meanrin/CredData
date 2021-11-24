@@ -8,3 +8,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 100191,c6d1f984,GitHub,826a020b,data/826a020b/src/e.js,8:8,F,F,,,F,F,,,,,0.00,,F,F,F,
 100192,c6d1f984,GitHub,826a020b,data/826a020b/src/e.js,163:163,F,F,,,F,F,,,,,0.00,,F,F,F,
 100193,21a473fe,GitHub,826a020b,data/826a020b/test/b.js,19:19,Template,T,51,65,F,F,CharOnly,,,Secret,3.38,14,F,F,F,Password
+130011,c6d1f984,GitHub,826a020b,data/826a020b/src/e.js,57:57,F,F,,,F,F,,,,,0.00,,F,F,F,

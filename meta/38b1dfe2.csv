@@ -59,3 +59,6 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 102767,6cf5951d,GitHub,38b1dfe2,data/38b1dfe2/test/s.py,18:18,F,F,,,F,F,,,,,0.00,,F,F,F,
 113797,92be84ed,GitHub,38b1dfe2,data/38b1dfe2/src/f.rst,61:61,F,F,,,F,F,,,,,0.00,,F,F,F,
 113798,e52e4ddd,GitHub,38b1dfe2,data/38b1dfe2/test/m.py,227:227,F,F,,,F,F,,,,,0.00,,F,F,F,
+131009,daa78be5,GitHub,38b1dfe2,data/38b1dfe2/src/c.py,101:101,F,F,,,F,F,,,,,0.00,,F,F,F,
+131010,30367337,GitHub,38b1dfe2,data/38b1dfe2/test/o.py,20:20,F,F,,,F,F,,,,,0.00,,F,F,F,
+131011,a956fcbb,GitHub,38b1dfe2,data/38b1dfe2/test/r.py,174:174,Template,F,8,12,F,F,NumberOnly,,,Secret,2.00,4,F,F,F,Password

@@ -30,3 +30,4 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 74980,a311b10a,GitHub,489fc16c,data/489fc16c/src/a.yml,27:27,F,F,,,F,F,,,,,0,0,F,F,F,
 78004,a311b10a,GitHub,489fc16c,data/489fc16c/src/a.yml,51:70,F,F,,,F,F,,,,,0,0,F,F,F,
 82753,a311b10a,GitHub,489fc16c,data/489fc16c/src/a.yml,32:32,F,F,21,29,F,F,,,,,0,0,F,F,F,
+131602,65ce5700,GitHub,489fc16c,data/489fc16c/src/f.yml,12:12,F,F,,,F,F,,,,,0.00,,F,F,F,

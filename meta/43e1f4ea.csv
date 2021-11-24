@@ -81,3 +81,8 @@ Id,FileID,Domain,RepoName,FilePath,LineStart:LineEnd,GroundTruth,WithWords,Value
 110194,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,164:164,F,F,,,F,F,,,,,0.00,,F,F,F,
 110195,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,172:172,F,F,,,F,F,,,,,0.00,,F,F,F,
 110196,8a248cc4,GitHub,43e1f4ea,data/43e1f4ea/test/q.yaml,300:300,F,F,,,F,F,,,,,0.00,,F,F,F,
+130195,ecd9f4ac,GitHub,43e1f4ea,data/43e1f4ea/test/bf.java,118:118,F,F,,,F,F,,,,,0.00,,F,F,F,
+130196,b5ec5339,GitHub,43e1f4ea,data/43e1f4ea/test/ba.java,124:124,F,F,,,F,F,,,,,0.00,,F,F,F,
+130197,ecd9f4ac,GitHub,43e1f4ea,data/43e1f4ea/test/bf.java,60:60,F,F,,,F,F,,,,,0.00,,F,F,F,
+130198,ecd9f4ac,GitHub,43e1f4ea,data/43e1f4ea/test/bf.java,177:177,F,F,,,F,F,,,,,0.00,,F,F,F,
+130199,b5ec5339,GitHub,43e1f4ea,data/43e1f4ea/test/ba.java,30:30,F,F,,,F,F,,,,,0.00,,F,F,F,
