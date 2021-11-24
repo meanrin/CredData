@@ -60,26 +60,26 @@ python download_data.py --data_dir data
 ### Data Statistics
 
 Dataset consists of 19,459,282 lines of code extracted from 11,408 files in 297 different repositories. 
-Total 59,907 lines of code are labeled, of which 6,002 (10.01%) labeled as True. 
+Total 74,549 lines of code are labeled, of which 4,595 (6%) labeled as True. 
 Labeled data divided into 8 major categories according to their properties.
 
 ##### Lines of code by language
 
 |Language|Total|Labeled|True|Language|Total|Labeled|True|
 |--------|--------|--------|--------|--------|--------|--------|--------|
-|Text|85,144|8,764|1,609|No Extension|48,645|1,037|49|
-|Go|838,816|6,225|458|Config|7,920|317|46|
-|YAML|74,643|2,662|344|AsciiDoc|27,803|432|36|
-|JavaScript|742,704|3,824|340|Shell|42,019|1,247|31|
-|Python|351,494|5,347|260|Haskell|5,127|85|31|
-|Markdown|186,099|3,479|248|Java Properties|1,878|118|30|
-|JSON|15,036,863|13,876|237|XML|57,377|1,343|23|
-|Ruby|186,196|4,373|145|reStructuredText|38,267|489|21|
-|Java|178,326|1,658|139|SQLPL|16,808|601|20|
-|Key|8,803|320|116|Objective-C|19,840|170|14|
-|TypeScript|151,832|2,442|79|TOML|2,566|238|12|
-|PHP|113,865|1,832|76|Scala|9,564|161|12|
-|Other|1,226,683|7,020|172|
+|Text|85,144|10,900|1,626|No Extension|48,645|1,144|49|
+|Go|838,816|6,589|459|Config|7,920|342|46|
+|YAML|74,643|2,842|344|AsciiDoc|27,803|449|36|
+|JavaScript|742,704|4,229|340|Shell|42,019|1,349|31|
+|Python|351,494|5,686|260|Haskell|5,127|90|31|
+|Markdown|186,099|3,806|259|Java Properties|1,878|124|30|
+|JSON|15,036,863|14,488|238|XML|57,377|1,412|25|
+|Java|178,326|1,776|154|reStructuredText|38,267|532|21|
+|Ruby|186,196|4,715|145|SQLPL|16,808|612|20|
+|Key|8,803|364|116|Objective-C|19,840|316|14|
+|TypeScript|151,832|2,578|79|TOML|2,566|239|12|
+|PHP|113,865|1,945|76|Scala|9,564|163|12|
+|Other|1,226,683|7,859|172|
 
 <img src="images/Language_true.png" width="450"/>
 
@@ -87,14 +87,14 @@ Labeled data divided into 8 major categories according to their properties.
 
 |[Category](#category)|True credentials|
 |--------|--------|
-|Password                    |  2,613|
-|Generic Secret              |  1,074|
-|Private Key                 |   993|
-|Generic Token               |   462|
-|Predefined Pattern          |   251|
-|Authentication Key & Token  |    49|
-|Seed, Salt, Nonce           |    40|
-|Other                       |   520|
+|Password                    |  1,401|
+|Generic Secret              |  1,056|
+|Private Key                 |   992|
+|Generic Token               |   335|
+|Predefined Pattern          |   327|
+|Authentication Key & Token  |    71|
+|Seed, Salt, Nonce           |    39|
+|Other                       |   374|
 
 <img src="images/Category.png" width="520"/>
 
@@ -310,13 +310,13 @@ For the tools used, see the [Used Tools for Benchmarking](#used-tools-for-benchm
 
 Name | TP | FP | TN | FN | FPR | FNR | Precision | Recall | F1
 ---- | -- | -- | -- | -- | --- | --- | --------- | ------ | --
-**CredSweeper** | 4,787 | 573 | 19,452,707 | 1,215 | 0.0000294552 | 0.2024325225 | 0.8930970149 | 0.7975674775 | 0.8426333392
-credential-digger | 652 | 3,924 | 19,449,356 | 5,350 | 0.0002017141 | 0.8913695435 | 0.1424825175 | 0.1086304565 | 0.1232747211
-detect-secrets | 2,901 | 9,446 | 19,443,834 | 3,101 | 0.0004855736 | 0.5166611130 | 0.2349558597 | 0.4833388870 | 0.3162025178
-gitleaks | 1,064 | 1,067 | 19,452,213 | 4,938 | 0.0000548494 | 0.8227257581 | 0.4992961051 | 0.1772742419 | 0.2616500676
-shhgit | 324 | 276 | 19,453,004 | 5,678 | 0.0000141878 | 0.9460179940 | 0.5400000000 | 0.0539820060 | 0.0981520751
-truffleHog | 2,603 | 13,747 | 19,439,533 | 3,399 | 0.0007066675 | 0.5663112296 | 0.1592048930 | 0.4336887704 | 0.2329098067
-wraith(gitrob) | 1,533 | 1,758 | 19,451,522 | 4,469 | 0.0000903704 | 0.7445851383 | 0.4658158614 | 0.2554148617 | 0.3299257506
+**CredSweeper** |3,661|761|19,453,926|934|0.0000391165|0.2032644178|0.8279059249|0.7967355822|0.8120217367
+credential-digger |479|4,871|19,449,816|4,116|0.0002503767|0.8957562568|0.0895327103|0.1042437432|0.0963298140
+detect-secrets |1,755|9,983|19,444,704|2,840|0.0005131411|0.6180631121|0.1495143977|0.3819368879|0.2149023449
+gitleaks |1,120|1,011|19,453,676|3,475|0.0000519669|0.7562568009|0.5255748475|0.2437431991|0.3330359798
+shhgit |330|306|19,454,381|4,265|0.0000157289|0.9281828074|0.5188679245|0.0718171926|0.1261709042
+truffleHog |2,509|14,234|19,440,453|2,086|0.0007316489|0.4539717084|0.1498536702|0.5460282916|0.2351673072
+wraith(gitrob) |898|3,099|19,451,588|3,697|0.0001592932|0.8045701850|0.2246685014|0.1954298150|0.2090316574
 
 - Terminology
   - TP(True Positive) : Values that are Actually Positive and Predicted Positive.
